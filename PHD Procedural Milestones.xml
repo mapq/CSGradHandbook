@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="phd-procedural-milestones">
+
+  <title>PhD Procedural Milestones</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Students seeking a PhD must successfully complete four major milestones: the <xref href="PHD%20Qualifying%20Process.xml"/>, the <xref href="PHD%20Prelim.xml"/>, the <xref href="PHD%20Research%20Defense.xml"/>, and the <xref href="PHD%20Final%20Defense.xml"/>.</p>
+
+    <p>These exams must be taken during an academic term in which the student is registered. For the final exam, it is possible to register as a defense-only student, see <xref href="Start%20of%20Semester%20Defense%20Exception.xml"/>.</p>
+
+    <p conref="Reference.xml#lib/two-weeks-before"></p>
+
+    <note conref="Reference.xml#lib/prereq-final-exam"></note>
+    <note conref="Reference.xml#lib/pos-and-exam-same-time"></note>
+
+  </conbody>
+</concept>

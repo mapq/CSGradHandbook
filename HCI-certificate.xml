@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="hci-certificate">
+<title>Human-Computer Interaction Certificate</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>A Graduate Certificate in Human-Computer Interaction Program is administered by the Center for Human-Computer Interaction and offered in conjunction with either a master's or doctoral degree in most departments (including computer science).</p>
+
+    <p>Master's degree students complete 9 hours and doctoral students 15 hours of coursework for the certificate; at least two of the courses taken must be outside the student's degree program requirements and home department. These courses should be relevant to HCI; those in the following list are especially recommended. If the student writes a thesis or dissertation, it must be related to human-computer interaction.  Students can normally fit the requirements for the certificate into their program of graduate study so that the time needed to complete the graduate degree in their basic discipline is not extended by simultaneously pursuing the certificate. Students interested in the Graduate Certificate in Human-Computer Interaction should confer with the certificate administrator prior to submitting a program of study to the Graduate School to ensure that the requirements are met.</p>
+
+    <p>Note certificates are signed by the certificate administrator, not by the GD. As of this writing the
+    certificate administrator for HCI is Dr. Scott McCrickard. To obtain the certificate, a student must complete the certificate application form and submit it to the graduate school. There is more information in the CHCI website (<xref href="http://www.hci.vt.edu/certificate.php" format="html" scope="external"/>).</p>
+    <table>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Course</entry>
+            <entry>Title</entry></row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>CS 3724</entry>
+            <entry>Introduction to Human-Computer Interaction</entry></row>
+          <row>
+            <entry>CS/ISE 5714</entry>
+            <entry>Usability Engineering</entry></row>
+          <row>
+            <entry>CS 5724</entry>
+            <entry>Models and Theories of HCI</entry></row>
+          <row>
+            <entry>CS 5734</entry>
+            <entry>Computer-Supported Cooperative Work</entry></row>
+          <row>
+            <entry>CS 5754</entry>
+            <entry>Virtual Environments</entry></row>
+          <row>
+            <entry>CS 5764</entry>
+            <entry>Information Visualization</entry></row>
+          <row>
+            <entry>CS 5774</entry>
+            <entry>User Interface Software</entry></row>
+          <row>
+            <entry>CS 6724</entry>
+            <entry>Advanced Topics In Human-Computer Interaction</entry></row>
+          <row>
+            <entry>CE 5064</entry>
+            <entry>Knowledge-based expert systems</entry></row>
+          <row>
+            <entry>CS 4624</entry>
+            <entry>Multimedia, Hypertext, Information Access</entry></row>
+          <row>
+            <entry>EDCI 6664</entry>
+            <entry>Advanced Instructional Technology</entry></row>
+          <row>
+            <entry>ESM 4714</entry>
+            <entry>Visual Data Analysis and Multimedia</entry></row>
+          <row>
+            <entry>ISE 5604</entry>
+            <entry>Human Information Processing</entry></row>
+          <row>
+            <entry>ISE 5605</entry>
+            <entry>Human Factors System Design I </entry></row>
+          <row>
+            <entry>ISE 5694</entry>
+            <entry>Macroergonomics</entry></row>
+          <row>
+            <entry>ISE 6604</entry>
+            <entry>Human Factors of Visual Display Systems</entry></row>
+          <row>
+            <entry>ISE 6614</entry>
+            <entry>Human Computer Systems</entry></row>
+          <row>
+            <entry>PSYCH 5354</entry>
+            <entry>Information Processing</entry></row>
+          <row>
+            <entry>STS 5424</entry>
+            <entry>Computers in Society</entry></row>
+        </tbody>
+      </tgroup>
+    </table>
+
+
+  </conbody>
+</concept>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="course-registrations">
+<title>Course Registrations</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <section>
+      <title>Course Registration</title>
+
+      <p>Graduate students can register in courses at the 4000 (senior), 5000 (beginning graduate), and 6000 (advanced graduate) level. See our website for a list of courses available for graduate students. In special cases, when students have been admitted with deficiencies in their computing background, they may be required to take courses at the 2000 (sophomore) or 3000 (junior) level, beyond their regular graduate program requirements. See section <xref href="Deficiencies.xml"/> for further details.</p>
+
+      <note>Courses designated as <b>ONLINE COURSE</b> are courses available only for students enrolled in the Virginia Tech Masters in Information Technology (<xref href="http://www.vtmit.vt.edu" format="html" scope="external">MIT Site</xref>) and thus not available for credits to on campus students.</note> 
+      
+      <p>Students currently enrolled in the graduate program are eligible to pre-register for courses. This normally takes place in October and March. Students are strongly encouraged to take advantage of pre-registration since (a) courses might be cancelled for lack of enrollment if not enough pre-register (especially Spring Semester classes when relatively few new students enter the program) and (b) it is your best opportunity for getting into the courses you want.</p>
+
+      <p>After pre-registration, Fall courses are typically locked so that students may not add them online. Courses normally stay locked until after new students entering the program for Fall semester have had a chance to be added. After this time (typically the Friday before classes begin), courses will be opened for add/drop access online.</p>
+
+      <p>All CS graduate courses are normally open to CS graduate students only. Non-CS graduate students will be required to supply a written request from their advisor to gain permission to enroll in a CS course.</p>
+    </section>
+
+    <section>
+      <title>Deadlines</title>
+      <p>The deadlines in a typical semester are structured as follows using two parameters: x (the date when classes start) and y (the date when final grades are due). These are approximate guidelines only. The ordinal sequence of events will be maintained although the specific “gaps” may not. To get the authoritative answer, consult the academic calendar available on the main VT website: <xref href="http://www.vt.edu" format="html"/> .</p>
+
+      <table>
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1" colwidth="2*"/>
+          <colspec colnum="2" colname="c2" colwidth="1*"/>
+          <colspec colnum="3" colname="c3" colwidth="4*"/>
+          <tbody>
+            <row>
+              <entry>Classes start</entry>
+              <entry>x</entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Add deadline</entry>
+              <entry>x + 4 days</entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Drop deadline</entry>          
+              <entry>x + 4 days + 1 month</entry>
+              <entry>This is the deadline to drop the course without grade penalty or it appearing on the student’s transcript.</entry>
+            </row>
+            <row>
+              <entry>Course withdrawal date</entry>
+              <entry>y – 2 weeks</entry>
+              <entry>Withdrawal at this late stage is granted only under extreme circumstances. Poor performance in the course is not a valid reason to request a withdrawal. The course will appear on the transcript with a “W” grade.  See section <xref href="Dropping%20Courses.xml"/> for more information.</entry>
+            </row>
+            <row>
+              <entry>Last day of classes</entry>    
+              <entry>y – 9 days</entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Final grades due</entry>
+              <entry>y</entry>
+              <entry></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </conbody>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="green-thursday">
+
+  <title>Green Thursday</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The SARs submitted by the graduate students are organized for discussion in an all day meeting of the CS Department faculty. This meeting is call Green Thursday and it takes place during Reading Day in the Spring Semester.</p>
+
+    <p>In that meeting, the CS faculty discusses students progress towards degree and evaluates their timely meeting of milestones. The particular case of students that receive a poor evaluation are discussed in more detail. The result is one more evaluation of each student's progress. This final evaluation, together with the advisor evaluation is then shared with the graduate school.</p>
+
+    <p>Later in the summer GPC emails to each student a summary of the discussion. For most students, the summary is no different than the assessment of the advisor that was already included in the SAR. For those cases that the assessment differs, a more detail note is shared with the student.</p>
+ 
+  </conbody>
+</concept>

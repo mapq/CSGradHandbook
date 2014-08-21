@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="phd-final-defense">
+
+  <title>Final Defense</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The last of the four stages for the PhD degree is the Final Defense. It has a recommended deadline of 6-9 months from completion of the Research Defense. During this examination the candidate makes an oral presentation of his or her research work and defends the significance and accuracy of this work in response to questions from the student's committee. The committee, in closed session, determines whether the student has successfully completed the examination.</p>
+
+    <p>If a student fails the final defense, he/she must wait 6 months before attempting the defense again (Graduate School stipulation). The final defense can be attempted at most twice.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="funding">
+
+  <title>Funding Opportunities</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+		<p>There are several possible sources of funding with or near the University for qualified graduate students. Well over half of CS graduate students are typically funded through departmental fellowships, teaching, or research assistantships. Others were supported elsewhere within the University, or at the nearby Corporate Research Center. The vast majority of students seeking support will find it in one of the following ways:</p>
+
+		<ul>
+			<li><b>Graduate Teaching Assistantship (GTA)</b>: The number of GTAs awarded in a given year is difficult to predict and is driven by undergraduate (not graduate) enrollments. A fraction of the GTAs (approximately one-third) are offered to new students. In 2014-2015, stipends started around $1800/month for nine months. Students on assistantships are exempt from tuition and a significant fraction of the costs for a University sponsored healthcare plan are covered.</li>
+
+			<li><b>Graduate Research Assistantship (GRA)</b>: Many faculty have active research programs that include funds for research assistants. Note that GRAs are most commonly awarded to students who have been in the Department for at least one semester. GRAs receive the same stipends, tuition exemption, and healthcare benefits as GTAs.</li>
+
+			<li><b>Computer Science Scholars and Pratt Fellowships</b>: a limited number of exceptional applicants are admitted as CS Scholars or Pratt Fellows, which guarantees them multiple years of support. These positions may include summer support for research as well.</li>
+
+			<li><b>University/College-level Fellowships</b>: Our applicants are eligible to compete for University- and College-level fellowships including the Cunningham Fellowship, Dean's Fellowship, and PhD 2010 Fellowships. These fellowships typically include multiple-year support guarantees, summer research support, and possibly travel or discretionary funds. Some are only available to US citizens and permanent residents.</li>
+
+			<li><b>Minority Scholarships</b>: Virginia Tech provides a number of scholarships for minority students who are US citizens. Contact the CS Department at gradprog@cs.vt.edu for further information about applying to these programs.</li>
+
+			<li><b>Other departments and local companies</b>: Our graduate students are in demand to fill positions in other departments Graduate Research Assistants, or as programmers doing software development and system administration. Typically 10-20 of our students work as GRAs for other departments. There are also a number of software development companies in the Corporate Research Center (CRC) who have interest in hiring our students. Since such companies are located off-campus, these positions are typically not available to foreign nationals on student visas.</li>
+		</ul>
+
+		<p>MS Thesis and PhD Students who received Departmental support in their first year can normally expect to recieve continued support during the remainder of their course of study (typically 2 years for MS, 4 or 5 years for PhD), so long as their job performance and degree progress is good. PhD students whose job performance is good are normally guaranteed three years of funding once they have passed their PhD Qualifier process. MS Coursework-only students will normally be given assistantships only if funding is available after all qualified Thesis and PhD students have been funded.</p>
+
+		<p>GTA applications are accepted twice a year, in November for spring semester and in March for the following academic year. The period for applications is announce via email to the graduate students listserv. Students entering the program in fall or spring are given GTA application forms at the departmental orientation meeting and can submit them immediately. Be aware, however, that the department will have already screened the incoming students and awarded a pool of assistantships at the time admission offers were made. Thus, incoming students for that semester not given an assistantship from this pool generally have lower priority over continuing students for the few remaining positions.</p>
+
+		<p>Continuing students must have a minimum GPA of B (3.0) to be eligible for a GTA position. Decisions regarding the award of GTA positions are made by the AUS in consultation with the AGS and the results from previous Green Thursday evaluations. Funding decisions are largely guided by a ranking formula. Students who do not receive initial awards are placed on a waiting list and will be informed of their quartile standing on that list. The list is re-ordered at the end of the semester when new grades and GTA evaluations become available.</p>
+
+  </conbody>
+</concept>

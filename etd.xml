@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="etd">
+
+  <title>Electronic Theses or Dissertation</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Virginia Tech has been a leader in the electronic publication of Thesis and Dissertations. All graduate students must submit their Thesis or Dissertation electronically. The full process is done online using the online system to request graduation and to schedule final defense.</p>
+
+    <p>Submitting the thesis to the ETD repository is a pre-requisite for graduation. There is an absolute deadline to submit the ETD if the student desires to participate in commencement, which is usually 2 weeks before the last day of classes.</p>
+
+  </conbody>
+  <related-links>
+    <link href="http://etd.cs.vt.edu" format="html" scope="external"><linktext>CS Department ETD Collection</linktext></link>
+
+    <link href="http://scholar.lib.vt.edu/theses/browse/by_department/c.html" format="html" scope="external"><linktext>Digital Library and Archives: Departments starting with C</linktext></link>
+
+    <link href="http://vtechworks.lib.vt.edu/handle/10919/19035" format="html" scope="external"><linktext>VTechWorks Department of Computer Science Collection</linktext></link>
+
+    <link href="http://graduateschool.vt.edu/graduate_catalog/policies.htm?policy=002d14432c654287012c6542e3720025" 
+      format="html" scope="external">
+      <linktext>ETD Page at the Graduate School</linktext></link>
+  </related-links>
+</concept>

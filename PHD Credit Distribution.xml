@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="phd-credit-distribution">
+<title>Credit Distribution</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+<p>The credit distribution table for the Ph.D. degree can be summarized as follows:</p>
+
+<table>
+  <tgroup cols="4">
+    <colspec colnum="1" colname="c1" colwidth="4*"/>
+    <colspec colnum="2" colname="c2" colwidth="1*" align="right" />
+    <colspec colnum="3" colname="c3" colwidth="1*" align="right" />
+    <colspec colnum="4" colname="c4" colwidth="6*"/>
+    <thead>
+      <row>
+        <entry>Category of courses</entry>
+        <entry>Credit Min</entry>
+        <entry>Credit Max</entry>
+        <entry>Notes</entry></row>
+    </thead>
+    <tbody>
+
+      <row>
+        <entry>CS courses at 4000 level and above</entry>
+        <entry>27</entry>
+        <entry></entry>
+        <entry>All courses must be in CS, but they cannot include 
+          <xref href="http://www.cs.vt.edu/graduate/courses/CS5984" format="html" scope="external">CS 5984</xref>, 
+          <xref href="http://www.cs.vt.edu/graduate/courses/CS5904" format="html" scope="external">CS 5904</xref>, 
+          <xref href="http://www.cs.vt.edu/graduate/courses/CS5944" format="html" scope="external">CS 5944</xref>, 
+          <xref href="http://www.cs.vt.edu/graduate/courses/CS5994" format="html" scope="external">CS 5994</xref>, or 
+          <xref href="http://www.cs.vt.edu/graduate/courses/CS7994" format="html" scope="external">CS 7994</xref>
+          CS 5894, CS 5904, CS 5944, CS 5994, or CS 7994.</entry>
+      </row>
+
+      <row>
+        <entry>CS courses at 4000 level</entry>
+        <entry></entry>
+        <entry>3</entry>
+        <entry>See the department website for list of approved CS courses that can be taken for graduate credit. The list includes appropriate 4000 courses.</entry>
+      </row>
+
+      <row>
+        <entry><xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS 5974 Independent Studies</xref></entry>
+        <entry></entry>
+        <entry>3 </entry>
+        <entry></entry>
+      </row>
+
+      <row>
+        <entry><xref href="http://www.cs.vt.edu/graduate/courses/CS7994" format="html" scope="external">CS 7994 Research and Dissertation</xref></entry>
+        <entry>30</entry>
+        <entry></entry>
+        <entry></entry>
+      </row>
+
+      <row>
+        <entry>CS courses at 6000 level</entry>
+        <entry>6</entry>
+        <entry></entry>
+        <entry></entry>
+      </row>
+
+      <row>
+        <entry>Cognate courses</entry>
+        <entry>6</entry>
+        <entry>6</entry>
+        <entry>Visit the department website for an <xref href="http://www.cs.vt.edu/graduate/courses/cognates" format="html">approved list of cognate courses</xref>.</entry>
+      </row>
+
+      <row>
+        <entry>Total credits</entry>
+        <entry>90</entry>
+        <entry></entry>
+        <entry></entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>
+
+    <p>Note: Each of the lines above must be interpreted as an individual, distinct, constraint so that all constraints have to be simultaneously satisfied. The columns are not meant to “add up”, i.e., 27+30+6+6 is obviously not equal to 90.</p>
+
+    <p>Additional credit hours may be taken in any category, but do not count toward degree requirements. Substitutions for degree requirements are allowed only under rare or exceptional circumstances. Requests for substitutions must be made to the AGS.</p>
+
+    <p>Observe that all CS courses must be at the 5000 level or above with possibly at most one 4000 level included. Furthermore, if a CS 4000 level course is included, it must be from the list of CS 4000 level courses approved for graduate credit (see <xref href="http://www.cs.vt.edu/graduate/courses" format="html" scope="external"/> for a list of available graduate courses). Credits from 
+    <xref href="http://www.cs.vt.edu/graduate/courses/CS5894" format="html" scope="external">CS 5894 Final Examination</xref>, 
+    <xref href="http://www.cs.vt.edu/graduate/courses/CS5994" format="html" scope="external">CS 5944 Graduate Seminar</xref> cannot be used to satisfy any Ph.D. credit requirements. Credits from 
+    <xref href="http://www.cs.vt.edu/graduate/courses/CS5904" format="html" scope="external">CS 5904 Project and Report</xref>, and 
+    <xref href="http://www.cs.vt.edu/graduate/courses/CS7994" format="html" scope="external">CS 7994 Research and Dissertation</xref> cannot be used to satisfy any Ph.D. coursework credit requirements. Observe also the limits on <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS5974</xref> in the above credit distribution table. At least two CS 6000 level courses are required and exactly two cognate courses are required. See the department website for a <xref href="http://www.cs.vt.edu/graduate/courses/cognates" format="html">list of approved cognate courses</xref>.</p>
+
+  </conbody>
+
+  <related-links>
+    <link href="http://www.cs.vt.edu/graduate/courses" 
+      format="html" scope="external">
+      <linktext>List of available graduate courses </linktext></link>
+
+    <link href="http://www.cs.vt.edu/graduate/courses/cognates" 
+      format="html" scope="external">
+      <linktext>List of approved cognate courses</linktext></link>
+  </related-links>
+
+</concept>

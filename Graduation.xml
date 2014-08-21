@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="dropping-courses">
+<title>Graduation and Commencement</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+    <section>
+      <title>Graduation Procedures</title>
+      <p>Each semester, the Graduate School publishes a list of deadlines for the necessary steps toward graduation in that semester. Besides finding that schedule at the Graduate School website, the AGS will typically send out the schedule by email at least once during the semester.</p>
+      <p>The first step in the process toward graduation is to complete an Application for Degree form, via Hokie SPA.</p>
+      <p>Typically there is a deadline by which you must have completed your final exam requirements if you want to be listed on the commencement bulletin and receive your diploma at commencement. There is a later deadline (in fact, past the end of the semester) by which you must complete all requirements to be considered a graduate in that semester. Be sure to check in advance on the appropriate deadlines so that you know what is expected. They are posted at the Graduate School website.</p>
+      <p>To graduate, you must first submit an Application for Degree card by the Graduate School's deadline for that semester. You must also complete all defense requirements by the Graduate School's deadlines. For the MS Thesis option and PhD degree, this means holding the final defense and submitting the final documents by the appropriate deadlines. All MS Theses and PhD Dissertations must be submitted to the Electronic Theses and Dissertations system (see the ETD Homepage). If you are using the report from CS5974 Independent Study as the final exam requirement for the MS Coursework-only option, you should submit a copy (electonic or hard-copy) of the report to the AGS by the deadline, and have your course instructor send an email message to the AGS advising whether to accept or reject the report. These reports are not submitted to ETD.</p>
+    </section>
+
+    <section>
+      <title>Participation in Commencement Activities</title>
+
+      <p>If you are completing a MS thesis or PhD, please tell your faculty advisor well in advance if you plan to attend the graduation ceremony. Part of the ceremony involves "hooding" of the graduate by the faculty member. With the myriad different graduation ceremonies in place (at the department level, college level, and at the university level) most faculty are assigned to attend one or another ceremony, and few are able to go to all ceremonies. Further, faculty paticipating in hooding ceremonies typically must come dressed in regalia. Thus, your advisor needs to know in advance so that he or she can be prepared.</p>
+
+    </section>
+  </conbody>
+</concept>

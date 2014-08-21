@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="deficiencies">
+<title>Background Deficiencies</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+<p>The department admits applicants from a variety of backgrounds, who have the potential for completing a CS graduate degree. Students with less than the equivalent of an undergraduate CS minor may have insufficient CS background to immediately undertake graduate courses. Particular background assumed as prerequisites for various graduate courses include object oriented programming, data structures, operating systems, and algorithm analysis. Incoming students might have identified deficiencies upon entering, or if they are concerned that they may have deficient background, should discuss this issue with the GD prior to the start of classes in their first semester. Typically the GD suggests undergraduate courses to make up for the background deficiencies.</p>
+
+<p>Undergraduate courses assigned to overcome background deficiencies must be taken at the earliest possible opportunity to remain in good standing. These courses must be taken for a regular grade (A/F) and cannot be taken pass/fail. Such undergraduate deficiency courses should be listed on the plan of study, however they do not directly count toward satisfying the graduation requirements for any graduate degree in CS.</p>
+
+  </conbody>
+</concept>

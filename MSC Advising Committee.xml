@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="msc-advising-committee">
+
+  <title>Advisors and Advising Committees</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>All graduate students have access to a faculty advisor who can help with both academic advising (i.e., issues related to getting a degree) and career advising. PhD students, and MS students under the thesis option, should select a faculty member to act as their research and course advisor as early as possible in their academic career and definitely by the time their plan of study is due (see <xref href="Plans%20of%20study.xml"/>). The advisor must be a full-time Virginia Tech faculty position with either a regular, emeritus, or courtesy appointment in the Department of Computer Science, and hold a Ph.D. or equivalent terminal degree.</p>
+
+    <p>The composition for an M.S. coursework advisory committee typically consists of three members as follows:</p>
+
+    <ul>
+    <li>The chair of the committee (advisor) is the instructor for the <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS 5974 Independent Study</xref> course that was used to satisfy the M.S. coursework requirements. If the final exam requirement is met through the use of the qualifying exam, the chair of this exam serves as the advisor. This person must be a full-time Virginia Tech faculty position with either a regular, emeritus, or courtesy appointment in the Department of Computer Science, and hold a Ph.D. or equivalent terminal degree.</li>
+
+    <li>The two Associate Department Heads (AGS and AUS) typically serve as the second and third members.</li>
+
+    <li>No outside members are allowed in the committee of MS Coursework students.</li>
+    </ul>
+  </conbody>
+</concept>

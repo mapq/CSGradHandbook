@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="seminar">
+<title>Seminar Requirement</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p id="requirement">All full-time graduate students are required to register for CS 5944 in their first three semesters of graduate study and to earn a passing grade in these semesters. CS 5944 cannot be used to satisfy course credit requirements toward any of our graduate degrees. Exceptions to the seminar requirement will be considered by GPC on a case-by-case basis - please contact the GD if you would like to petition for an exception. The exceptions are often based on conflict in scheduling of GTA duties and the graduate seminar. Typically the exception approved simply allows the student to skip a semester in taking the Graduate Seminar with the understanding that the student will still take the Graduate Seminar in the following semester.</p>
+  </conbody>
+</concept>

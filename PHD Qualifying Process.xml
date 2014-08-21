@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="phd-qualifying-process">
+
+  <title>Qualifying Process</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The PhD qualifying process is completed early in a student's doctoral studies and is the first of four milestones which must be completed successfully to earn the PhD degree. The qualifying process must be completed within 30 months of entering the Ph.D. program. Students who received an M.S. degree in Computer Science at Virginia Tech must complete this stage within 15 months of entering the Ph.D. program. Students entering the Ph.D. program with an M.S. degree from elsewhere can typically complete this stage within 15 months, although they have 30 months to do so. Extensions to these time limits may be negotiated, but extensions are intended to apply to students who take leave from the University, or are part-time students.</p>
+
+
+    <!-- <p>Notice that within the 30 month limit for the (entire) qualifying process, students will have two choices for when to take the qualifying exam: namely, the Spring semester in the year after they enter the program or the Spring semester in the subsequent year. This exam can be attempted at most once.</p> -->
+
+    <p>It is important to keep in mind that the Ph.D. qualifier is a “process” rather than just an “exam”.  It involves two components: excellence in breadth and excellence in depth. Breadth is assessed through classwork achievement. Depth is assessed through a combination of research achievement and the results of a qualifying exam (in the student’s cognizant area of specialty).  A Ph.D. student must demonstrate excellence in both breadth and depth to be considered qualified. The qualifying process is completed once the student completes both components. Note that it is meaningless to "qualify on the breadth" component only.</p>
+
+    <section>
+      <title>Excellence in Breadth</title>
+      <p>This score is assessed on a binary scale (pass/fail). To pass this requirement, a student needs to take CS courses spanning four areas and receive a GPA of at least 3.5 across these four courses. Only 5000-level and above CS courses eligible to be used on a CS graduate plan of study are considered. At least three 5000-level courses must be included. These courses must be graded on an A-F scale (therefore, <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS 5974</xref> cannot be included). Transferred courses are not considered. Note that, among all courses taken at Virginia Tech, the student can choose 4 courses of their interest to satisfy this requirement. </p>
+    </section>
+
+    <section>
+      <title>Excellence in Depth</title>
+      <p>This score is assessed on a points system using two components: research achievement and a qualifying exam. Each component can provide upto 3 points. Out of the total possible 6 points, a student must obtain 3 points to pass the excellence in depth requirement. Note that it is possible to pass the excellence in depth requirement using only one of the two components (i.e., either research achievement or the qualifying exam).</p>
+
+      <p><b>Research achievement score</b>: This score is assessed by the AGS by soliciting input from the faculty regarding a student's research ability. In addition, the student may submit a written description of his or her research achievements. This score will then be assigned based on the individual's research record and the faculty recommendations. Guidelines for scoring:</p>
+
+      <ul>
+        <li>3: Student has a non-trivial publication record. Traditionally, this is publication of at least one paper in a recognized, peer-reviewed conference or journal, and typically with additional submissions or publications. While this might be for work done prior to entering our program, it is expected that some research work (Independent study, GRA, or major volunteer effort) will have been done here. Alternatively, the student has completed a MS thesis in CS at Virginia Tech, or a peer institution, and has submitted at least one paper for publication to a peer reviewed conference or journal. To gain this score, some VT CS faculty member must endorse the student, and be willing to act as PhD advisor.</li>
+
+        <li>2: Student has demonstrated research ability through satisfactory performance on an Independent Study project, a graduate research assistantship (GRA) assignment, or an equivalent volume of work on a volunteer basis. This might have been done at another university, and there might be minor publications. To gain this score, some VT CS faculty member must endorse the student, and be willing to act as PhD advisor.</li>
+
+        <li>1: Recommendations from faculty who have personal knowledge of a student's research ability, based on class projects, papers, or presentations, indicate that the student is able to do credible research.</li>
+
+        <li>0: No evidence of research achievement.</li>
+      </ul>
+
+      <p><b>Qualifying exam score</b>: A PhD qualifying examination committee may be formed in any area recognized by the Department (see Appendix G for details). There is at most one committee per area in a given year and is constituted based on student interest (hence, due to insufficient student interest, some areas might not offer qualifying exams in some years). The examination will be either written or oral (or both), with format and procedures as the examination committee sees fit. Students are normally eligible for only one attempt at the exam.  See Appendix F for details on the goals of the qualifying exam.</p>
+
+      <p>Guidelines for assessing the qualifying exam score are as follows:</p>
+
+      <ul>
+        <li>3: Excellent performance, beyond that normally expected or required for a PhD student.</li>
+
+        <li>2: Performance appropriate for students preparing to do PhD-level work. Prime factors for assessment include being able to distinguish good work from poor work, and explain why; being able to synthesize the body of work into an assessment of the state-of-the-art on a problem (as indicated by the collection of papers); being able to identify open problems and suggest future work.</li>
+
+        <li>1: While the student adequately understands the content of the work, the student is deficient in one or more of the factors listed for assessment under score value of 2. A score of 1 is the minimum necessary for an MS-level pass.</li>
+
+        <li>0: Student's performance is such that the committee considers the student unable to do PhD-level work in Computer Science.</li>
+      </ul>
+
+      <p>Attempting or using a qualifying exam in a given area to get qualified does not “tie” a student to Ph.D. research in that area. For instance, a student might get qualified using scores from the qualifying exam in the HCI area but might opt to pursue a Ph.D. in the area of algorithms and theory. It is presumed that the student’s advisor (and advisory committee) are adequately positioned to judge the suitability of the student’s proficiency to undertake Ph.D. research in a given area and the Preliminary Proposal Exam is an opportunity to ascertain the same.</p>
+
+      <p>Since the Ph.D. qualifying exams are offered early in the calendar year, the AGS will attempt to assign initial valuations to all who take the exam, and give feedback via email on current standing to those students. If at that point a student has six points, a letter to that effect will be issued automatically. At the end of Spring semester, the AGS will attempt to update those valuations based on Spring grades, again issuing a qualification letter if the student is qualified. Aside from immediately after the exam and at the end of Spring semester, evaluation will only be conducted when initiated by the student. There are two cases where a student will initiate an evaluation. (1) If the student determines that he/she can obtain six points without taking the exam, they should contact the AGS and provide appropriate documentation to support receiving the points. (2) If at some point after the Spring semester evaluation the student feels he/she has a case for six points, they can contact the AGS to do an evaluation. When the qualifier case is clear cut for a given student, the AGS will make an immediate determination. Cases that are not clear cut will be referred to the full committee.</p>
+
+      <p>As stated earlier, the PhD qualifying examination also serves as one of the two methods whereby an MS coursework-only option student may pass their MS degree final examination.</p>
+
+      <p>In consultation with their advisor, once a student completes the requirements for qualification, the student must submit the Request to be Qualified form, available in the <xref href="http://www.cs.vt.edu/graduate/current_students/forms" format="html" scope="external">forms page</xref> of our website.</p>
+
+      <p><b>Constituting the Qualifying Exam Committee</b>: A PhD qualifying examination committee may be formed in any area recognized by the Department . There may only be one committee for any area. A faculty member may serve on at most two committees during a given year. Each year, AGS will appoint a chair for each examination committee from among the volunteers for that semester.</p>
+
+      <p>The PhD Qualifying Examination is given during a period spanning the end of Fall semester and the start of Spring semester of each year. During early Fall semester, students interested in taking the exam should discuss potential research areas with faculty members so that examination areas of mutual interest can be discovered. Examination committees must post the reading list for their exam by November 1. The exam is normally administered during January and February, with scores reported to GPC by mid February.</p>
+
+      <p>Each examination committee will publish a reading list of 10-20 research papers by November 1. It is not a requirement that the papers broadly cover the area, or be "seminal papers" in the area. A list containing papers with results spanning a wide spectrum in regards to quality and relevance is desirable to gauge the student's ability to judge quality and importance of results. The body of work should serve as a good introduction to one or more aspects of the area, but is also selected in part to serve as a vehicle for the exam. For example, a committee giving an exam in algorithms might choose one year to assign a set of papers on NP-complete problems in bioinformatics. The following year, the papers assigned by that committee might be on a completely different topic.</p>
+
+      <p>All students taking the exam in a given year from a given examination committee should be given the same reading list, undergo the same examination process, and be graded using the same criteria.</p>
+
+      <p>The exam is meant to probe the student's understanding of the content of the papers, the student's ability to synthesize the content into a meaningful understanding of the issues involved, and from there, the student's ability to determine potential "next step" paths of research (based on the papers assigned). In general, the exam is testing the student's ability to critically analyze the material, make judgments regarding the quality and relevance of the results, as well as deriving ideas for future research directions for the specific subtopic addressed in the papers.</p>
+
+      <p>At the end of the examination process, the committee must arrive at a scoring in the range 0 to 3 (integer only), and report this score to the AGS by the deadline.</p>
+    </section>
+  </conbody>
+
+  <related-links>
+    <link href="https://www.cs.vt.edu/files/Request%20for%20Qualification.pdf" 
+      format="html" scope="external">
+      <linktext>Request to be Qualified (PDF form)</linktext></link>
+
+    <link href="https://www.cs.vt.edu/files/Request%20for%20Qualification.doc" 
+      format="html" scope="external">
+      <linktext>Request to be Qualified (DOC form)</linktext></link>
+  </related-links>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="course-registration-for-cs5974">
+<title>Registration for CS5974</title>
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Registration for <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS 5974 Independent Study</xref> involves a special procedure. You do not register online for <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS5974 Independent Study</xref>, but instead fill out a request form. The form must be processed by the end of the normal drop/add period in the first week of class. The GD will give additional time for the student and instructor to complete the project description and evaluation criteria if needed, but the registration portion of the form (the first page) needs to be submitted by the end of the drop/add week.Although <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS5974</xref> is technically available for variable credit hours, students will nearly always take it for 3 credits.</p>
+
+    <p>Only the <xref href="MSC%20Program.xml">MS Coursework</xref> and <xref href="PHD.xml">Ph.D.</xref> allow credit toward the degree for <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS5974</xref>.</p>
+
+    <p>An Independent Study course requires commitment from a CS professor to sponsor the study, as only CS faculty can serve as instructors for this class. Sometimes a student will wish to work with a faculty member outside the CS Department. A CS graduate student can do an Independent Study under a professor outside the CS department if the following two criteria are met:</p>
+    
+    <ul>
+      <li>The content is appropriate for credit toward a CS course and can be used in a CS degree.</li>
+
+      <li>A CS faculty member agrees to be the formal sponsor of the course. The person who signs the course approval form as the supervisor of the work must be a CS faculty member. Even though the work is mainly done with another person, the CS faculty member must be the responsible party within our department.</li>
+    </ul>
+  </conbody>
+</concept>

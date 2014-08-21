@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="graduate-courses">
+<title>Graduate Courses</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+<p>Graduate students can register for courses at the 4000 (senior), 5000 (beginning graduate), and 6000 (advanced graduate). See Appendix A for a list of courses available for graduate students. In special cases, when students have been admitted with deficiencies in their computing background, they may be required to take courses at the 2000 (sophomore) or 3000 (junior) level, beyond their regular graduate program requirements. See Section 12.2 for further details.</p>
+  </conbody>
+</concept>

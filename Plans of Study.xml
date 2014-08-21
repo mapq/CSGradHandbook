@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="plans-of-study">
+
+  <title>Plan of Study</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The Plan of Study is an official University document that serves as a “contract” between the student and the department. It details the degree program (M.S. or Ph.D.; with or without Bioinformatics option; if M.S. whether coursework or thesis), list of courses along with the semesters they have been taken/will be taken, and the advisory committee. Separate plans of study are required for M.S. and Ph.D. degrees. </p>
+
+    <p>The student prepares the plan of study in consultation with the advisory committee and submits it to the GC. Once the GD approves it, the plan of study is submitted to the Virginia Tech graduate school for its approval.</p>
+
+    <p>A plan of study can be submitted only ONCE for a given degree, but once it is approved, it can be changed by filing a Request for Plan of Study Changes form.</p>
+
+    <p>The graduate school encourages that plans of study be submitted as early as possible; As of Aug 2007, it stipulates that plans of study are due by the end of the second academic semester for all Master's students, and are due by the end of the third academic semester for doctoral students.</p>
+
+    <p>The department recommends that MS thesis students file a plan of study as soon as they know they will be doing a thesis. MS Coursework students must file their plan of study prior to the beginning of their third semester at Virginia Tech. Ph.D. students should select an advisor within 3 months of passing their Ph.D. qualifier process and have an approved plan of study on file within 12 months of passing their Ph.D. qualifier process. </p>
+
+    <p>Plans of Study require a fair amount of processing for approval. The department checks that you meet departmental degree requirement. The graduate school checks for university requirements. In addition, your account is checked to make sure your finances are in order. As a result, the plan of study takes about a month of processing time from the moment you submit a form to the GC until it is finally approved. Be aware that this is a slow process and do not expect it to be approved overnight.</p>
+
+    <p>For an experimental online editor for the plan of study, check <xref href="https://hosting.cs.vt.edu/gpcstudents/pos/" format="html" scope="external"/>.</p>
+  </conbody>
+</concept>

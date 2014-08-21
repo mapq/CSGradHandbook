@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="grad-honor-code">
+
+  <title>Principles of Community</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+<p><i>The "Virginia Tech Principles of Community" were affirmed by the board of visitors March 14, 2005, and signed by eight university organizations.</i></p>
+
+<p>Virginia Tech is a public land-grant university, committed to teaching and learning, research, and outreach to the Commonwealth of Virginia, the nation, and the world community. Learning from the experiences that shape Virginia Tech as an institution, we acknowledge those aspects of our legacy that reflected bias and exclusion. Therefore, we adopt and practice the following principles as fundamental to our on-going efforts to increase access and inclusion and to create a community that nurtures learning and growth for all of its members:</p>
+
+<ul>
+<li>We affirm the inherent dignity and value of every person and strive to maintain a climate for work and learning based on mutual respect and understanding.</li>
+<li>We affirm the right of each person to express thoughts and opinions freely. We encourage open expression within a climate of civility, sensitivity, and mutual respect.</li>
+<li>We affirm the value of human diversity because it enriches our lives and the University. We acknowledge and respect our differences while affirming our common humanity.</li>
+<li>We reject all forms of prejudice and discrimination, including those based on age, color, disability, gender, national origin, political affiliation, race, religion, sexual orientation, and veteran status. We take individual and collective responsibility for helping to eliminate bias and discrimination and for increasing our own understanding of these issues through education, training, and interaction with others.</li>
+<li>We pledge our collective commitment to these principles in the spirit of the Virginia Tech motto of Ut Prosim (That I May Serve).</li>
+</ul>
+
+<lines>
+Ben J. Davenport Jr., Rector, Board of Visitors
+Charles W. Steger, President
+W. Samuel Easterling, President, Faculty Senate
+Sue Ellen Crocker, President, Staff Senate
+Sumeet Bagai, President, Student Government Association
+Myrna Callison and Yvette Quintela, Co-Vice Presidents, Graduate Student Assembly
+Kimball "Jay" Reynolds, President, Virginia Tech Alumni Association
+Ray Plaza, Chair, Commission on Equal Opportunity and Diversity
+</lines>
+
+<p>The Principles of Community are also available in multiple languages. Visit the PoC page at <xref href="http://www.diversity.vt.edu/principles-of-community/principles.html" format="html" scope="external"/>.</p>
+  </conbody>
+</concept>

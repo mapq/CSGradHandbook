@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="graduate-council">
+<title>Graduate Council</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The Graduate Council is a student-run organization that pursues the interests of graduate students in the Computer Science Department. Elected members serve on committees that decide policy, curriculum, funding, research, computing resources, and work space allocations. In particular, one member of the graduate council serves on the graduate program committee (GPC). The Graduate Council also sponsors various events to promote the computer science graduate community, administers funds for student travel to conferences and meetings, and provides a mentoring program where current students serve as mentors to incoming graduate students. Students are encouraged to contact the Graduate Council with their concerns at gradcouncil@csgrad.cs.vt.edu.</p>
+  
+  </conbody>
+  <related-links>
+    <link href="http://csgrad.cs.vt.edu" 
+      format="html" scope="external">
+      <linktext>http://csgrad.cs.vt.edu/</linktext></link>
+  </related-links>
+</concept>

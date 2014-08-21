@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="phd-advising-committee">
+
+  <title>Advisors and Advising Committees</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>All graduate students have access to a faculty advisor who can help with both academic advising (i.e., issues related to getting a degree) and career advising. PhD students, and MS students under the thesis option, should select a faculty member to act as their research and course advisor as early as possible in their academic career and definitely by the time their plan of study is due (see <xref href="Plans%20of%20study.xml"/>). The advisor must be a full-time Virginia Tech faculty position with either a regular, emeritus, or courtesy appointment in the Department of Computer Science, and hold a Ph.D. or equivalent terminal degree.</p>
+
+    <p>In place of a single advisor, PhD students can instead choose two faculty members to serve as co-advisors. In this case, at least one of the co-advisors must be a full-time Virginia Tech faculty position with either a regular, emeritus, or courtesy appointment in the Department of Computer Science, and hold a Ph.D. or equivalent terminal degree. The advisor or co-advisors chair the student’s advisory committee. </p>
+
+    <p>The composition of a Ph.D. advisory committee must be designed taking into account the following considerations:</p>
+
+    <ul>
+      <li>The committee must have at least five members (including the advisor or co-advisors).</li>
+
+      <li>At least four members of the committee must hold a PhD or equivalent terminal degree. Any member without a PhD or equivalent terminal degree must have nationally recognized expertise in their field and have research experience.</li>
+
+      <li>At least three members must hold tenure track or emeritus positions in the Department of Computer Science. </li>
+
+      <li>At least one member of the committee must be from outside the university. Note that outside members must be approved by the Graduate School, see section <xref href="Plans%20of%20Study.xml"/> for details.</li>
+    </ul>
+
+
+    <p>Ph.D. students who plan to do a thesis but who have not yet selected a research advisor or who need additional academic advising can approach any faculty member on the graduate program committee (GPC) to serve as an interim advisor, and who can serve to provide signatures and other official approvals as required. For most such students, the AGS serves as the de-facto interim advisor. </p>
+
+    <note>The department is committed to support some of the travel expenses for an external member to visit campus and attend one of the official graduate exams of a dissertation committee. Note however, that the budget for these situations is limited, there are travel authorizations required before the outside member travels, and other approvals. No honorarium can be paid to the visitors, only travel expenses. Consult the GC before making arrangements for travel.</note>
+
+    <note>External members must be pre-approved to serve in university PhD committees. This is a step that the student must complete before filing the Plan of Study. The <xref href="http://graduateschool.vt.edu/graduate_catalog/policies.htm?policy=002d14432c654287012c6542e38200d8" format="html">policy on external members</xref> is described in the <xref href="http://graduateschool.vt.edu/graduate_catalog/" format="html">Graduate School Catalog</xref>. The form needed is available at the <xref href="http://graduateschool.vt.edu/academics/forms" format="html">Graduate School forms page</xref> (<xref href="http://graduateschool.vt.edu/forms/academics/Grad_Progr_Fac_Addl_Members.doc" format="html">direct link</xref>).</note>
+
+  </conbody>
+
+  <related-links>
+    <link href="http://graduateschool.vt.edu/graduate_catalog/policies.htm?policy=002d14432c654287012c6542e38200d8" 
+      format="html" scope="external">
+      <linktext>Policy on Graduate Advisory Committees</linktext></link>
+
+    <link href="http://graduateschool.vt.edu/academics/forms" 
+      format="html" scope="external">
+      <linktext>Graduate School Forms Page</linktext></link>
+  </related-links>
+
+</concept>

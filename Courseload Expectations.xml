@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="courseload-expectations-and-restrictions">
+<title>Courseload Expectations and restrictions</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Students on GTA or GRA support must have "full-time" enrollment status, and so must enroll for 12 credit hours. While a normal course load is 12 credits, this does not mean that students are expected to take four regular 3-credit courses during any semester. Students should take the number of courses in a given semester appropriate for making good progress toward completing their degree, and add in research hours (CS5994 or CS7994, as appropriate) to bring the total number of credits per semester to 12.</p>
+
+    <p>The department restricts the number of regular courses that students may take. These restrictions are motivated by two considerations: </p>
+    <ol>
+      <li>What we consider to be a rational workload balancing the need to take courses versus obligations to work and/or expectations to participate in research programs.</li>
+      <li>Protection for other students who might be locked out of courses by those who would hold seats while they "shop" for the subset they actually will keep.</li>
+    </ol>
+
+    <p>For the purpose of these restrictions, a "regular course" is any (typically 3-credit) course that is eligible for graduate credit, whether given by the CS department or another department. This includes CS5974 Independent Study. It does not include CS5994/7994 Research Hours, 1-credit seminar courses (such as the CS Graduate Seminar), or courses taken for personal interest that do not count for graduate credit (such as GEDI courses). The following courseload restrictions are enforced by the department:</p>
+
+    <ul>
+      <li>GTAs and GRAs are limited to at most three regular courses per semester.</li>
+
+      <li>No student may enroll in more than three regular courses until the last day of the normal drop/add period (Friday of the first week of classes).</li>
+
+      <li>Students in the PhD program are limited to two regular courses per semester unless they have permission from their advisor and the GD to take a third course.</li>
+    </ul>
+
+  </conbody>
+</concept>

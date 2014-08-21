@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="phd-research-defense">
+
+  <title>Research Defense</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>The Research Defense is the third of four milestones that must be completed for the PhD degree. The Research Defense has a recommended deadline of 12-18 months from completion of the Preliminary Proposal Exam, and approximately 3-6 months prior to the Final Defense.</p>
+
+    <p>The Research Defense is expected to last one or two hours. The actual conduct, content, and scope of the Research Defense are under the control of the student's advisory committee. The Research Defense should take place once the student has completed most of the work for the dissertation. It is likely that significant writing will yet remain, but no significant problems (other than perhaps mechanical data collection, routine software development, or usability testing) should remain to be solved. </p>
+
+    <p>The Research Defense is meant to be an opportunity for the committee to review the key results and verify that a satisfactory body of work appears to have been completed. The committee should understand what has been and what will be accomplished as part of the dissertation, and to agree within itself whether completion of the work as described by the student, or a revision as determined by the committee at the Research Defense, will result in successful completion of the dissertation.</p>
+
+    <p>It is expected that the student will prepare a document and submit it to the committee sufficiently in advance of the exam that the committee has sufficient time to review it. If the committee is expected to read and comment on a significant amount of material then it should be given to the committee two weeks in advance of the meeting. The document will likely consist of a review of the proposed work plan (possibly revised since the time of the Preliminary Exam) for the dissertation, and a description of the student's progress towards completing the plan. Key results and their significance should be presented clearly, but briefly. The document should clearly detail what work remains to be done, and the timeframe for its completion. It is not intended that this document be a draft of the dissertation. For some committees, the document might simply be a list of accomplishments and remaining tasks. The student might also submit to the committee copies of papers published or submitted for publication. It is up to the committee to specify how much information it needs to determine if dissertation work is on track.</p>
+
+    <p>The Research Defense will typically be the committee's last major opportunity to review the student's progress and work prior to the Final Defense. As such, any major objections or reservations regarding the research plan and progress should be expressed at the Research Defense. Under normal circumstances the expectation is that, if the work completed at the time of the Research Defense is deemed satisfactory, and if the dissertation is completed in the manner specified at the Research Defense, then the result will be deemed satisfactory at the Final Defense. </p>
+
+    <p>Note that the Research Defense plays no official role within the University. The Department requires that students pass the Research Defense in a timely manner to remain in good standing. Aside from this, it is up to the student and the committee to determine the next step should a student be considered by the committee to have failed the Research Defense.</p>
+
+  </conbody>
+</concept>

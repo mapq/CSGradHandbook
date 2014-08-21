@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="ms-thesis-scheduling-exams">
+<title>Scheduling Final Exam</title>
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+
+  <conbody>
+    <p>The MS Thesis option requires an oral final exam before the advisory committee. This exam must be taken during an academic term in which the student is registered (perhaps this registration will be as a defense-only student, see <xref href="Start%20of%20Semester%20Defense%20Exception.xml"/>).</p>
+
+    <p conref="Reference.xml#lib/two-weeks-before"></p>
+
+    <note conref="Reference.xml#lib/prereq-final-exam"></note>
+    <note conref="Reference.xml#lib/pos-and-exam-same-time"></note>
+
+  </conbody>
+
+  <related-links>
+    <link href="https://gradexam.stl.vt.edu/" 
+      format="html" scope="external">
+      <linktext>Graduate School Exam Approval System</linktext></link>
+
+    <link href="http://graduateschool.vt.edu/graduate_catalog/policies.htm?policy=002d14432c654287012c6542e3630013" 
+      format="html" scope="external">
+      <linktext>Graduate School Policy Page on Examinations</linktext></link>
+  </related-links>
+</concept>

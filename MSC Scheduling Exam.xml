@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="msc-scheduling-exam">
+<title>Scheduling Final Exam</title>
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>MS Coursework students fulfill their final exam requirements through either performance on the Ph.D. qualifier or satisfactory completion of <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS 5974 Independent Study</xref>. Although they do not have an “oral” defense, they are still required to constitute a committee, as mentioned in section <xref href="MSC%20Advising%20Committee.xml"/>, and schedule a nominal date for their final exam with the graduate school.</p>
+
+    <!-- This procedure has changed multiple times...  I have no clue as to what the real process is like as of this writing.
+    -->
+  </conbody>
+</concept>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="bioinformatics-certificate">
+<title>Bioinformatics Option</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Any CSA degree (M.S. or Ph.D.) may include an option in Bioinformatics. Students receiving the option will have that fact noted on their transcript upon successful graduation. To receive the option, students will take a minimum of seven (7) additional credits beyond those necessary for the CSA degree without the option. These and other requirements as noted next:</p>
+
+    <ul>
+      <li>Students receiving the Bioinformatics option must take PPWS 5314 Biological Paradigms for Bioinformatics (3 credits), BCHM 5024 Computational Biochemistry for Bioinformatics (3 credits), and GBCB 5004 Seminar (1 credit). PPWS 5314, BCHM 5024, and GBCB 5004 may not be used both to complete the option and to satisfy CSA degree course requirements. Students who already have background equivalent to PPWS 5314 and/or BCHM 5024 may be permitted to substitute more advanced courses to satisfy this requirement. </li>
+      <li>Students receiving the Bioinformatics option must take ONE of STAT 5615 (Statistics in Research), STAT 5616 (Statistics in Research), MATH 5515 (Modeling and Simulation of Biological Systems), or MATH 5516 (Modeling and Simulation of Biological Systems). These courses may also be used to fulfill CSA coursework requirements.</li>
+      <li>Students must complete the final exam requirement for their respective CSA degree using a topic suitable for the Bioinformatics option. Students completing a MS thesis or PhD dissertation must receive approval from the AGS for their thesis or dissertation topic to count toward the Bioinformatics option. MS coursework-only students must take GBCB 5874 Problem Solving in Genetics, Bioinformatics, and Computational Biology, and use the final report from this course to satisfy their final exam requirement. In rare cases, the final report from CS5974 Independent Study may be used to satisfy the final exam requirement under the Bioinformatics option if the AGS approves the topic of the report.</li>
+    </ul>
+
+  </conbody>
+</concept>

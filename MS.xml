@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="master-of-science">
+<title>Master of Science (MS)</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The Master of Science degree provides a solid foundation in computer science while still offering flexibility to meet the needs and interests of individual students.</p>
+
+    <p>The M.S degree is completed through the BS/MS option, the thesis or the coursework option. The BS/MS enables the completion of both a bachelor's and a master's degree in five years. The MS Thesis option requires 30 credits of course work of which typically 21 credits must derive from courses. The coursework option requires 33 credits derived from courses. Students in good standing typically complete the Thesis or Coursework option in at most two years. The Thesis option is strongly encouraged since it provides students with an in-depth research experience, and requires fewer courses. The department typically does not admit students into the Coursework option; it is typically used for PhD students to get an MS “along the way” to the PhD.</p>
+
+    <p>To fulfill requirements for these degrees, students must satisfy breadth, credit distribution, seminar, ethics, and final exam requirements.</p>
+
+  </conbody>
+</concept>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="philosophy-doctor-phd">
+<title>Doctorate (PhD)</title>
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>A student pursuing the Ph.D. degree is expected to exhibit a comprehensive knowledge of a broad cross section of the computer science discipline and to contribute significant new knowledge to the discipline through the research contribution contained in the doctoral dissertation. A PhD student must complete a minimum of 90 credits of graduate study, of which at least 33 must derive from courses. The PhD program is intended to be completed in about five years from entering the graduate program with a BS degree in Computer Science or a related field, or about four years if the student already has an MS degree in Computer Science or a related field. This is possible because students who begin the PhD program already in possession of a Masters may be able to count as many as six courses toward their course requirement (see section <xref href="Transfer%20Credits.xml"/>).</p>
+
+    <p>To fulfill graduation requirements for the Ph.D. degree, students must satisfy the
+    <xref href="PHD%20Requirement.xml#phd-requirements/breadth">breadth</xref> requirement, adhere to an appropriate
+    <xref href="PHD%20Credit%20Distribution.xml">credit distribution</xref>, enroll in the
+    <xref href="PHD%20Requirement.xml#phd-requirements/seminar">graduate seminar</xref>, comply with the
+    <xref href="PHD%20Requirement.xml#phd-requirements/ethics">ethics requirement</xref>, and complete the major milestones for the degree, including the preliminary exam, research and final defense.</p>
+  </conbody>
+</concept>

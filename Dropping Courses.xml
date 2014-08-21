@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="dropping-courses">
+<title>Dropping Courses</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Graduate students wishing to drop a course after the official drop date must obtain the approval of the course instructor and the Associate Department Head. Approvals for late dropping of courses are not guaranteed and are given only under extreme (e.g., life-altering) circumstances.</p>
+
+    <note>Poor performance in the course, lack of interest in the course etc. are not valid reasons to request a late drop. The Graduate School will not approve such requests</note>
+
+    <p>Section <xref href="Course%20Registrations.xml"/> contains for information about course drop deadline dates in the context of a typical semester. To drop a course after the official drop date, the student must submit a completed Drop-Add form with the Instructor's and the GD’s signatures to the GC. It will then be submitted to the graduate school for the Dean’s (of the graduate school) signature. If approved, the course will be dropped from the student’s schedule.</p>
+  </conbody>
+</concept>

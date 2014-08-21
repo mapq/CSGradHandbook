@@ -1,0 +1,2895 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"base",
+				"basedir"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"save",
+				"save_dir"
+			],
+			[
+				"ignore",
+				"ignore_them"
+			],
+			[
+				"_",
+				"_site"
+			],
+			[
+				"layout",
+				"layoutyaml"
+			],
+			[
+				"sort",
+				"sortOrder"
+			],
+			[
+				"show-PHD-B",
+				"show-PHD-B"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"fp",
+				"fp"
+			],
+			[
+				"try",
+				"try_years"
+			],
+			[
+				"strcmp",
+				"strcasecmp"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"pro",
+				"progress2"
+			],
+			[
+				"advisor",
+				"advisor2"
+			],
+			[
+				"progres",
+				"progress1"
+			],
+			[
+				"ad",
+				"advisor1"
+			],
+			[
+				"proe",
+				"progress2"
+			],
+			[
+				"adv",
+				"advisor2"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"pln",
+				"plan_intern"
+			],
+			[
+				"pla",
+				"plan_intern"
+			],
+			[
+				"fun",
+				"funding"
+			],
+			[
+				"advi",
+				"advisor2"
+			],
+			[
+				"student",
+				"studentid"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"degre",
+				"degreecode"
+			],
+			[
+				"gra",
+				"graduates_contents"
+			],
+			[
+				"enro",
+				"enrolled_contents"
+			],
+			[
+				"myo",
+				"myo_contents"
+			],
+			[
+				"start",
+				"startTerm"
+			],
+			[
+				"research",
+				"researchaid"
+			],
+			[
+				"phd",
+				"phd"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"ctype",
+				"ctype_digit"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"fileg",
+				"file_get_contents"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"bread",
+				"breadthCount"
+			],
+			[
+				"brea",
+				"breadthCount"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"matr",
+				"matrix"
+			],
+			[
+				"matri",
+				"matrixmin"
+			],
+			[
+				"number",
+				"number_format"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"Advi",
+				"AdviserName"
+			],
+			[
+				"POS",
+				"POSonFile"
+			],
+			[
+				"Fi",
+				"File"
+			],
+			[
+				"related",
+				"related660"
+			],
+			[
+				"Total",
+				"Total"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"size",
+				"sizeCount"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"pub",
+				"pub	JSONPublication"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"remote",
+				"remote_info"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"bash",
+				"bashful"
+			],
+			[
+				"Dat",
+				"Dates"
+			],
+			[
+				"technology",
+				"technology"
+			],
+			[
+				"Pé",
+				"Pérez-Quiñones"
+			],
+			[
+				"preg_ma",
+				"preg_match"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"fpu",
+				"fputs"
+			],
+			[
+				"gen_template",
+				"gen_template_from_memory"
+			],
+			[
+				"b",
+				"break2"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"area",
+				"areatitles"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"preg_match",
+				"preg_match_all"
+			],
+			[
+				"routes",
+				"openssl_random_pseudo_bytes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "About.xml",
+			"settings":
+			{
+				"buffer_size": 5659,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BSMS Program.xml",
+			"settings":
+			{
+				"buffer_size": 4787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Bioinformatics.xml",
+			"settings":
+			{
+				"buffer_size": 2474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Contacts.xml",
+			"settings":
+			{
+				"buffer_size": 4202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Course Registrations.xml",
+			"settings":
+			{
+				"buffer_size": 3322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Courses.xml",
+			"settings":
+			{
+				"buffer_size": 3044,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Deficiencies.xml",
+			"settings":
+			{
+				"buffer_size": 1686,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Degrees.xml",
+			"settings":
+			{
+				"buffer_size": 955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Dropping Courses.xml",
+			"settings":
+			{
+				"buffer_size": 1315,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Funding.xml",
+			"settings":
+			{
+				"buffer_size": 5082,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Good Standing.xml",
+			"settings":
+			{
+				"buffer_size": 4026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Graduate Council.xml",
+			"settings":
+			{
+				"buffer_size": 1424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Graduate Courses.xml",
+			"settings":
+			{
+				"buffer_size": 958,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Green Thursday.xml",
+			"settings":
+			{
+				"buffer_size": 568,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HCI-certificate.xml",
+			"settings":
+			{
+				"buffer_size": 4077,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Honor Code.xml",
+			"settings":
+			{
+				"buffer_size": 2828,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Internships and Co-ops.xml",
+			"settings":
+			{
+				"buffer_size": 1947,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Leave of Absense.xml",
+			"settings":
+			{
+				"buffer_size": 1309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MS Good Standing.xml",
+			"settings":
+			{
+				"buffer_size": 2116,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MS.xml",
+			"settings":
+			{
+				"buffer_size": 1581,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MSC Advising Committee.xml",
+			"settings":
+			{
+				"buffer_size": 1991,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MSC Credit distribution.xml",
+			"settings":
+			{
+				"buffer_size": 5580,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MSC Program.xml",
+			"settings":
+			{
+				"buffer_size": 1560,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MSC Requirement.xml",
+			"settings":
+			{
+				"buffer_size": 2484,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MSC Schedule.xml",
+			"settings":
+			{
+				"buffer_size": 3833,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MSC Scheduling Exam.xml",
+			"settings":
+			{
+				"buffer_size": 1494,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MST Advising Committee.xml",
+			"settings":
+			{
+				"buffer_size": 2735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MST Credit distribution.xml",
+			"settings":
+			{
+				"buffer_size": 5746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MST Program.xml",
+			"settings":
+			{
+				"buffer_size": 1688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MST Requirement.xml",
+			"settings":
+			{
+				"buffer_size": 2016,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MST Schedule.xml",
+			"settings":
+			{
+				"buffer_size": 4032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MST Scheduling Exam.xml",
+			"settings":
+			{
+				"buffer_size": 1421,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Credit Distribution.xml",
+			"settings":
+			{
+				"buffer_size": 5634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Final Defense.xml",
+			"settings":
+			{
+				"buffer_size": 1069,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Good Standing.xml",
+			"settings":
+			{
+				"buffer_size": 2034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD MS Along the way.xml",
+			"settings":
+			{
+				"buffer_size": 1578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Prelim.xml",
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Procedural Milestones.xml",
+			"settings":
+			{
+				"buffer_size": 2993,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Qualifying Process.xml",
+			"settings":
+			{
+				"buffer_size": 10890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Requirement.xml",
+			"settings":
+			{
+				"buffer_size": 1668,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Research Defense.xml",
+			"settings":
+			{
+				"buffer_size": 3960,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Schedule.xml",
+			"settings":
+			{
+				"buffer_size": 6936,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHD Scheduling Exam.xml",
+			"settings":
+			{
+				"buffer_size": 994,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Paperwork and Forms.xml",
+			"settings":
+			{
+				"buffer_size": 3882,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PhD Advising Committee.xml",
+			"settings":
+			{
+				"buffer_size": 4356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PhD.xml",
+			"settings":
+			{
+				"buffer_size": 1889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Plans of Study.xml",
+			"settings":
+			{
+				"buffer_size": 2569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?xml version='1.0' encoding='UTF-8'?>\n<!DOCTYPE concept PUBLIC \"-//OASIS//DTD DITA Concept//EN\" \"http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd\" []>\n<concept id=\"lib\">\n\n  <title>Reference for common sections in CS Handbook</title>\n  <shortdesc></shortdesc>\n\n  <prolog>\n    <author type=\"creator\">Graduate Program Committee</author>\n    <copyright>\n      <copyryear year=\"2014\"/>\n      <copyrholder>CS Department</copyrholder>\n    </copyright>\n  </prolog>\n  <conbody>\n\n    <p id=\"TBU\"><b>NEEDS TO BE UPDATED</b></p>\n    \n    <p id=\"good-standing\">Graduate students must remain in \"good standing\" throughout the period of graduate studies. This means that the student is making satisfactory progress towards the completion of a graduate degree. Each student's progress is reviewed annually by the Graduate Program Committee (GPC) during the <xref href=\"Green%20Thursday.xml\"/> review and based on your <xref href=\"Student%20Activity%20Report.xml\"/>. Only students in good standing are normally eligible for funding support administered by the department, i.e., GTAs and fellowships. In extreme cases, students not in good standing will be removed from the graduate program. The GPC will normally provide at least one warning before removing a student, however, in cases where there exists substantial failure to achieve satisfactory progress the student may be removed without prior warning.</p>\n\n    <p id=\"two-weeks-before\">At least two weeks prior to the examination date, the student must schedule a final exam with the Graduate School. The request for the exam is done electronically and must be approved by all members of the advisory committee, the GD, and the Graduate School. The <xref href=\"http://graduateschool.vt.edu/graduate_catalog/policies.htm?policy=002d14432c654287012c6542e363001a\" format=\"html\">policy page at the Graduate School</xref> contains more information. The <xref href=\"https://gradexam.stl.vt.edu/\" format=\"html\">Graduate School Exam Approval System</xref> also has some help information.</p>\n\n    <note id=\"prereq-final-exam\">It is worth noting that there are several checks that must be met before the exam can be schedule. A student must have an approved <xref href=\"Plans%20of%20Study.xml\"/>, and must not have any holds on his/her account.</note>\n\n    <note id=\"pos-and-exam-same-time\">DO NOT submit a <xref href=\"Plans%20of%20Study.xml\"/> at the same time as you schedule your final exam. Your plan of study should be approved (not submitted, but approved) before you request your final exam. Approval of a plan of study takes about 1 month of processing time.</note>\n\n    <section id=\"seminar-requirement\">\n      <title>Graduate Seminar Requirement</title>\n        <p>All full-time graduate students are required to register for <xref href=\"http://www.cs.vt.edu/graduate/courses/CS5944\" format=\"html\" scope=\"external\">CS 5944 Graduate Seminar</xref> in their first three semesters of graduate study and to earn a passing grade in these semesters. While it is required you take this course, the credits from this course cannot be used to satisfy course credit requirements toward any of our graduate degrees. Exceptions to the seminar requirement will be considered by GPC on a case-by-case basis - please contact the GD if you would like to petition for an exception. The exceptions are often based on conflict in scheduling of GTA duties and the graduate seminar. Typically the exception approved simply allows the student to skip a semester of CS 5944 with the understanding that the student will still register for it in the following semester.</p>\n    </section>\n\n    <section id=\"ethics-requirement\">\n      <title>Ethics Requirement</title>\n\n      <p>All graduate students in the Department of Computer Science must statisfy the Graduate School requirements of Resolution 2012-13B. The resolution requires our graduate program to \"include a scholarly ethics and integrity component in graduate education.\" This section describes how such a component is integrated into our graduate programs. This requirement applies to students starting in the Fall 2014 and later.</p>\n\n      <ul>\n        <li>All incoming graduate students must participate in a four hour orientation  offered by GD. This orientation is done the week before classes start in the Fall and Spring semesters.</li>\n\n        <li>All incoming graduate students must complete the following two courses offered by the Research Division:</li>\n\n        <ol>\n          <li>Responsible Conduct of Research <xref href=\"http://www.research.vt.edu/era/rcr-training-tracker/home\" scope=\"external\"  format=\"html\"/></li>\n          <li>Conflict of Interest Training <xref href=\"http://www.research.vt.edu/conflict-of-interest/training\" scope=\"external\" format=\"html\"/></li>\n        </ol>\n\n        <li>All students are required to take <xref href=\"http://www.cs.vt.edu/graduate/courses/CS5944\" format=\"html\" scope=\"external\">CS 5944 Graduate Seminar</xref> (1 cr.) three times. The seminar is offered both Fall and Spring semesters. The seminar dedicates at least 3 lectures in the semester to discuss issues of authorship and ethics. In addition, all students in the Graduate Seminar are required to participate in an online community hosted with Piazza where discussions around these topics are carried out throughout the semester.</li>\n      </ul>\n\n      <p>Students will be required to submit evidence of completion of these milestones in their annual student activity report (see section <xref href=\"Student%20Activity%20Report.xml\"/>). The annual evaluation of students (see <xref href=\"Green%20Thursday.xml\"/>) will determine whether students are complying with the Ethics requirement.</p>\n\n    </section>\n\n  </conbody>\n</concept>",
+			"file": "Reference.xml",
+			"file_size": 5668,
+			"file_write_time": 1407522517000000,
+			"settings":
+			{
+				"buffer_size": 5736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Registration for CS5974.xml",
+			"settings":
+			{
+				"buffer_size": 2939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Seminar Requirement.xml",
+			"settings":
+			{
+				"buffer_size": 1239,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Start of Semester Defense Exception.xml",
+			"settings":
+			{
+				"buffer_size": 2595,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Student Activity Report.xml",
+			"settings":
+			{
+				"buffer_size": 3194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Transfer Credits.xml",
+			"settings":
+			{
+				"buffer_size": 5634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "VTEOA.xml",
+			"settings":
+			{
+				"buffer_size": 1607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "etd.xml",
+			"settings":
+			{
+				"buffer_size": 1806,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: seminar-json"
+			],
+			[
+				"refres",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"latextools:",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"synt",
+				"Set Syntax: Markdown"
+			],
+			[
+				"files",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"toggl",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"toggle pr",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tog p",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/xml.sublime-project",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Courseload Expectations.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/About.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/head.xhtml",
+		"/Users/mapq/Downloads/Todos/VTS.todo.txt",
+		"/Users/mapq/Downloads/Todos/Website.todo.txt",
+		"/Users/mapq/Downloads/Todos/YAPM.todo.txt",
+		"/Users/mapq/Downloads/YAPM.todo.txt",
+		"/Users/mapq/Downloads/Website.todo.txt",
+		"/Users/mapq/Downloads/VTS.todo.txt",
+		"/Users/mapq/Downloads/UISW Book.todo.txt",
+		"/Users/mapq/Downloads/Travel.todo.txt",
+		"/Users/mapq/Downloads/TechComics.todo.txt",
+		"/Users/mapq/Downloads/Students.todo.txt",
+		"/Users/mapq/Downloads/Software.todo.txt",
+		"/Users/mapq/Downloads/New Projects.todo.txt",
+		"/Users/mapq/Downloads/Miscelanea.todo.txt",
+		"/Users/mapq/Downloads/Abstraction.todo.txt",
+		"/Users/mapq/Downloads/CDC.todo.txt",
+		"/Users/mapq/Downloads/CS2114.todo.txt",
+		"/Users/mapq/Downloads/CodeWorkout.todo.txt",
+		"/Users/mapq/Downloads/Executive.todo.txt",
+		"/Users/mapq/Downloads/GPC.todo.txt",
+		"/Users/mapq/Downloads/Home.todo.txt",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Schedule.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Funding.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/new pieces.md",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/VTEOA.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Honor Code.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Scheduling Exam.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Qualifying Process.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Plans of Study.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/cognates.html",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/VT Colors.md",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/skin.css",
+		"/Users/mapq/Desktop/VT Colors.md",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/cp2dopey.command",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Deficiencies.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/handbook-ms.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/handbook-phd.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Registration for CS5974.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Course Registrations.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/MST Credit distribution.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Reference.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/MS Good Standing.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/etd.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Green Thursday.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/Student Activity Report.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Good Standing.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/MST Schedule.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/etd.ml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Procedural Milestones.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Final Defense.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/MST Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PHD Credit Distribution.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/handbook.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/Handbook and Catalog/xml dita handbook/xml/PhD.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/PHD Credit Distribution.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/handbook-ms.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/handbook-phd.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/handbook.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/About.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/Degrees.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/Good Standing.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/Course Registrations.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MST Schedule.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MSC Program.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MS Good Standing.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MSC Schedule.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MSC Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MSC Scheduling Exam.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MST Credit distribution.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MST Scheduling Exam.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MST Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MSC Credit distribution.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MSC Advising Committee.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MST Advising Committee.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/PHD Breadth Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/MST Program.xml",
+		"/Users/mapq/Library/Application Support/Sublime Text 2/Packages/User/DITAGradCourse.sublime-snippet",
+		"/Users/mapq/Dropbox/CurrentWork/Dept Admin/GPC (Head)/dita handbook/xml/Transfer Credits.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Advising Committee copy.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/About.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Schedule.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/PHD Good Standing.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MS Good Standing.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Green Thursday.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Credit distribution.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Credit distribution.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Schedule.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Program.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Scheduling Exam.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Advising Committee.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Final Exam Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Transfer Credits.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Program.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Seminar Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Breadth requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MSC Breadth requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Final Exam Requirement.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/BSMS Program.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/BSMS Plan of Study.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MS.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Degrees.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Paperwork and Forms.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Reference.xml",
+		"/Users/mapq/Desktop/Start of Semester Defense Exception.md",
+		"/Users/mapq/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Graduate Council.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/handbook.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Advising Committee.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/PhD Advising Committee.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Plans of Study.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/HCI-certificate.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Bioinformatics.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/handbookphd.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/handbookms.ditamap",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Contacts.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Academic and Research Advisor.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/MST Scheduling Exam.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/Advising Committee.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/PHD MS Along the way.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/PHD Final Defense.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/PHD Research Defense.xml",
+		"/Users/mapq/Dropbox/CurrentWork/Developer/github/handbook/xml/PHD Prelim.xml"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p>",
+			"AGS",
+			"^x (\\()",
+			"^x ([A-Za-z])",
+			"^x [A-Za-z]",
+			"li>",
+			"li",
+			"li>",
+			"href=\"http://www.cs.vt.edu/graduate/courses/CS5994\" format=\"html\" scope=\"external\">CS 5994 Research Thesis",
+			"    * ",
+			"etd",
+			"www.graduateschool",
+			"www.grads.vt",
+			"Error! Reference",
+			"<p>CS",
+			"<p></p>",
+			"BCHM",
+			"^[ ]+\\*",
+			"    * ",
+			"pdf",
+			"CS5974",
+			"cognate",
+			"title",
+			"url",
+			"\n#",
+			" ",
+			"Thesis",
+			" ",
+			"CS 5944 Graduate Seminar",
+			"CS 7994",
+			"CS 5944",
+			")",
+			"(",
+			"ul>",
+			"s.xml",
+			"5994",
+			"6",
+			"note",
+			"<br/>",
+			"see",
+			"Append",
+			"2",
+			"xref",
+			"aref",
+			"Council",
+			" ",
+			"o	",
+			" ",
+			"”",
+			"“",
+			"Exam",
+			"Requirements",
+			"”",
+			"“",
+			"Defe",
+			"Transfer",
+			" ",
+			"20Breadth",
+			" ",
+			"MST",
+			"  <title></title>\n",
+			"<%layout layouts/base.tmpl%>",
+			"<h1 id=\"(.*)\">(.*)</h1>",
+			"<% layout layouts/base.tmpl %>",
+			"temp.txt; mv temp.txt",
+			".xml\" tail",
+			"> temp.txt",
+			".tmpl",
+			"About",
+			"<",
+			"<option value=\"",
+			"global",
+			"money_format(\"%.2n\", ",
+			"money_format",
+			"fmt_percent",
+			"format_dollars",
+			"format_currency",
+			"$c",
+			"format_dollars",
+			"$sortorder",
+			"fmt_dollars",
+			"$",
+			"print_percent",
+			"$result[",
+			"print_dollars",
+			"$t",
+			"$id",
+			"</td>",
+			"		  <td>",
+			"balance",
+			"Month",
+			"Recent",
+			"php",
+			"/Users/mapq/Dropbox/currentwork/Developer/GenSite in PHP/testing/ex1/",
+			"$destination",
+			"endsWith",
+			"startsWith",
+			"ignore_ends_with",
+			"wiki",
+			"ext",
+			"$ofile",
+			"process_site_dir",
+			"getcwd",
+			"process_site_dir",
+			"\"entries\"",
+			"output",
+			"$contents",
+			"process_dir",
+			"config",
+			": ",
+			"$options",
+			"$entries",
+			"entries",
+			"sections",
+			"IF_STMT",
+			"INCLUDE_STMT",
+			"_topics/",
+			"small",
+			"calendar",
+			" program",
+			"ksort",
+			"aFile",
+			"$aFile",
+			"$f['file']",
+			"slides",
+			"get_course_links",
+			"course_links",
+			"get"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"GD",
+			"x 2014-08-08 $1",
+			"",
+			"<concept id=\"$1\">\n<title>$2</title>",
+			"<concept id=\"$1\"><title>$2</title>",
+			"$2 $1",
+			"questionnaire",
+			"summon",
+			"diff images/request-images/$1 images/signin-images/$1",
+			"diff images/request-images/",
+			"SIGCSE 2014 - Atlanta, GA - March 5-8, 2014",
+			"Beginner's Guide to JUnit</a>",
+			"Beginner's Guide to JUnit</title>",
+			"*",
+			"\"",
+			"",
+			"\"12270\",\"",
+			"2014",
+			",",
+			"\\t",
+			">",
+			"$2 <$1>\\n",
+			"",
+			"Virginia Tech\",\n            \"listing\": \"true\"",
+			"",
+			"h4",
+			"p",
+			"</dd>",
+			"<br>",
+			"",
+			"mv $1.xml $1.xml",
+			",",
+			"h3",
+			"col-md-",
+			"",
+			"Quiñones",
+			"Pérez",
+			"Pérez\n",
+			"\n",
+			"-",
+			"Manuel A.",
+			"{\"item\":\"$1\"},",
+			" (",
+			"",
+			"{\"award\": \"$1\"},",
+			"\", \"date\": \"",
+			"\"},",
+			"{\"name\":\"",
+			"\", \"date\": \"",
+			"\"},",
+			"{\"name\":\"",
+			"</a>)",
+			"<li>CS",
+			"</ul>",
+			"</li>\n<li>",
+			")</a></li><li>",
+			"<ul><li>University (",
+			"<br>",
+			"            \"Doi\":",
+			"",
+			", ",
+			" ",
+			", ",
+			"",
+			"-chevron-up",
+			"glyphicon-up",
+			"<a href=\"#top\"><span class=\"glyphicon glyphicon-top\"></span></a><a name",
+			"<a href=\"#top\"><span class=\"glyphicon glyphicon-top\"></span></a><a name=",
+			"<a name=\"\"></a><h3>",
+			"ol",
+			"h3",
+			"Manuel A. Pérez-Quiñones",
+			"Pérez-Quiñones, Manuel A.",
+			"Manuel A. Pérez-Quiñones",
+			"Pérez-Quiñones, Manuel A.",
+			"},\nPérez-Quiñones, Manuel A.",
+			"},\n{",
+			"\n],",
+			":\n[\n",
+			"Manuel A. Pérez-Quiñones",
+			"$1\", \"title\":\"$2\", ",
+			"\"},",
+			"\",\"course\":\"",
+			"\"url\":",
+			"teaching.php",
+			"\"pi\":",
+			"\", \"pi\"",
+			"\"copi\": \"$1\"",
+			"\"pi\": \"$1\"",
+			"\"amount\": \"$1\", ",
+			"\"amount\": $1, ",
+			", \"participation\": \"$1\"},",
+			"{\"title\": \"",
+			"index.php",
+			"$b",
+			"            \"url\": \"\",\n            \"postdate\":",
+			"",
+			"\"},",
+			"\", \"tags\": \"",
+			"\", \"updateddate\": \"",
+			"\", \"postdate\": \"",
+			"{\"title\": \"",
+			"h3",
+			"PhD",
+			"\"PhD\"",
+			"\"MS\"",
+			"            \"degree\": \"\",\n            \"urn\":",
+			"\", \"date\": \"",
+			"\", \"etdtitle\": \"",
+			"",
+			"\", \"urn\": \"",
+			"\", \"date\": \"",
+			"\", \"urn\": \"",
+			"\"},",
+			"{ \"name\": \"",
+			"{",
+			"",
+			"$blog",
+			"h3",
+			"\"n\"",
+			"$payment2",
+			"$m2",
+			"$m1",
+			"\\manuellastnames",
+			"href=\"http://hosting.cs.vt.edu/gpcstudents/homepages/index.php",
+			"",
+			"\"col-md-",
+			"student.tmpl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 54,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "About.xml",
+					"settings":
+					{
+						"buffer_size": 5659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5175,
+								5175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BSMS Program.xml",
+					"settings":
+					{
+						"buffer_size": 4787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4115,
+								4115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 176.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Bioinformatics.xml",
+					"settings":
+					{
+						"buffer_size": 2474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Contacts.xml",
+					"settings":
+					{
+						"buffer_size": 4202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3623,
+								3623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1317.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Course Registrations.xml",
+					"settings":
+					{
+						"buffer_size": 3322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Courses.xml",
+					"settings":
+					{
+						"buffer_size": 3044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Deficiencies.xml",
+					"settings":
+					{
+						"buffer_size": 1686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Degrees.xml",
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Dropping Courses.xml",
+					"settings":
+					{
+						"buffer_size": 1315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Funding.xml",
+					"settings":
+					{
+						"buffer_size": 5082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Good Standing.xml",
+					"settings":
+					{
+						"buffer_size": 4026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Graduate Council.xml",
+					"settings":
+					{
+						"buffer_size": 1424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Graduate Courses.xml",
+					"settings":
+					{
+						"buffer_size": 958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Green Thursday.xml",
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "HCI-certificate.xml",
+					"settings":
+					{
+						"buffer_size": 4077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Honor Code.xml",
+					"settings":
+					{
+						"buffer_size": 2828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Internships and Co-ops.xml",
+					"settings":
+					{
+						"buffer_size": 1947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Leave of Absense.xml",
+					"settings":
+					{
+						"buffer_size": 1309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "MS Good Standing.xml",
+					"settings":
+					{
+						"buffer_size": 2116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "MS.xml",
+					"settings":
+					{
+						"buffer_size": 1581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "MSC Advising Committee.xml",
+					"settings":
+					{
+						"buffer_size": 1991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "MSC Credit distribution.xml",
+					"settings":
+					{
+						"buffer_size": 5580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 277.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "MSC Program.xml",
+					"settings":
+					{
+						"buffer_size": 1560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "MSC Requirement.xml",
+					"settings":
+					{
+						"buffer_size": 2484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "MSC Schedule.xml",
+					"settings":
+					{
+						"buffer_size": 3833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "MSC Scheduling Exam.xml",
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "MST Advising Committee.xml",
+					"settings":
+					{
+						"buffer_size": 2735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "MST Credit distribution.xml",
+					"settings":
+					{
+						"buffer_size": 5746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3299,
+								3299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3311.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "MST Program.xml",
+					"settings":
+					{
+						"buffer_size": 1688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1658,
+								1658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 143.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "MST Requirement.xml",
+					"settings":
+					{
+						"buffer_size": 2016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1765,
+								1765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 591.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "MST Schedule.xml",
+					"settings":
+					{
+						"buffer_size": 4032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "MST Scheduling Exam.xml",
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 143.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "PHD Credit Distribution.xml",
+					"settings":
+					{
+						"buffer_size": 5634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "PHD Final Defense.xml",
+					"settings":
+					{
+						"buffer_size": 1069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "PHD Good Standing.xml",
+					"settings":
+					{
+						"buffer_size": 2034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "PHD MS Along the way.xml",
+					"settings":
+					{
+						"buffer_size": 1578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "PHD Prelim.xml",
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "PHD Procedural Milestones.xml",
+					"settings":
+					{
+						"buffer_size": 2993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "PHD Qualifying Process.xml",
+					"settings":
+					{
+						"buffer_size": 10890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "PHD Requirement.xml",
+					"settings":
+					{
+						"buffer_size": 1668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "PHD Research Defense.xml",
+					"settings":
+					{
+						"buffer_size": 3960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "PHD Schedule.xml",
+					"settings":
+					{
+						"buffer_size": 6936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "PHD Scheduling Exam.xml",
+					"settings":
+					{
+						"buffer_size": 994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "Paperwork and Forms.xml",
+					"settings":
+					{
+						"buffer_size": 3882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "PhD Advising Committee.xml",
+					"settings":
+					{
+						"buffer_size": 4356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "PhD.xml",
+					"settings":
+					{
+						"buffer_size": 1889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "Plans of Study.xml",
+					"settings":
+					{
+						"buffer_size": 2569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "Reference.xml",
+					"settings":
+					{
+						"buffer_size": 5736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2605,
+								2605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "Registration for CS5974.xml",
+					"settings":
+					{
+						"buffer_size": 2939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "Seminar Requirement.xml",
+					"settings":
+					{
+						"buffer_size": 1239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "Start of Semester Defense Exception.xml",
+					"settings":
+					{
+						"buffer_size": 2595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 51,
+					"file": "Student Activity Report.xml",
+					"settings":
+					{
+						"buffer_size": 3194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 52,
+					"file": "Transfer Credits.xml",
+					"settings":
+					{
+						"buffer_size": 5634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 53,
+					"file": "VTEOA.xml",
+					"settings":
+					{
+						"buffer_size": 1607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 54,
+					"file": "etd.xml",
+					"settings":
+					{
+						"buffer_size": 1806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1253,
+								1253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 335.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true
+}

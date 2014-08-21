@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="msc-requirements">
+<title>Requirements</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The next sections provide more details on the requirements of the MS Coursework degree.</p>
+
+    <section>
+      <title id="msc-breadth">Breadth Requirements</title>
+
+      <p>To encourage Masters graduates to exhibit sufficient breadth of computer science areas, M.S. students must take CS courses spanning several different areas in CS. Coursework option students must take CS courses spanning five (5) different areas. Only CS courses at the 5000 or 6000 level are considered when evaluating the breadth requirement. The available courses and areas are listed in the department website (<xref href="http://www.cs.vt.edu/graduate/courses/areas" format="html" scope="external"/>).</p>
+    </section>
+
+    <section id="seminar" conref="Reference.xml#lib/seminar-requirement"></section>
+
+    <section id="ethics" conref="Reference.xml#lib/ethics-requirement"></section>
+
+    <section>
+      <title id="msc-final-exam">Final Exam Requirement</title>
+      <p>The final exam requirement for the <xref href="MSC%20Program.xml"/> can be met in either of two ways. </p>
+
+      <ol>
+      <li>The first approach is for the student to attempt the Ph.D. qualifier examination (administered in specific areas; typically in Jan-Feb of every year) and pass this exam at at least the Masters level (a score of 1 out of a possible 3 on the exam).</li>
+      <li>The second approach applies if 
+        <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS 5974 Independent Study</xref> is part of the set of courses used to satisfy the degree requirements. In this case, the final report prepared for 
+        <xref href="http://www.cs.vt.edu/graduate/courses/CS5974" format="html" scope="external">CS 5974</xref> can be submitted to the AGS (along with an approval from the 
+        <xref href="http://www.cs.vt.edu/graduate/courses/course" format="html" scope="external">CS 5974</xref> course instructor) and this serves to complete the final exam requirement.</li>
+      </ol>
+      <p>In either case, an advisory committee needs to be constituted (see section <xref href="MSC%20Advising%20Committee.xml"/> for more details).</p>
+    </section>
+  </conbody>
+</concept>

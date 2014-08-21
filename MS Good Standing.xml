@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="ms-good-standing">
+<title>Good Standing</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p conref="Reference.xml#lib/good-standing"></p>
+    
+    <p>These milestones are designed with the intention that an MS student will typically graduate two years after entering the graduate program. MS students retain their good standing by meeting all of the following:</p>
+
+    <ul>
+      <li>take a normal course load (12 semester credits) in each term and maintain a B (3.0) average over all courses. Note that while a normal course load is 12 credits, this does not mean that students are expected to take four regular 3-credit courses during any semester. Students should take the number of courses in a given semester appropriate for making good progress toward completing their degree, and add in research hours (<xref href="http://www.cs.vt.edu/graduate/courses/CS5994" format="html" scope="external">CS 5994</xref>) to bring the total number of credits per semester to 12;</li>
+
+      <li>take any courses assigned as a background deficiency during the earliest possible academic term;</li>
+
+      <li>remove any Incomplete course grade by the end of the next semester in which the student is enrolled; and</li>
+      <li>have an approved <xref href="Plans%20of%20Study.xml">Plan of Study</xref> on file no later than the end of the semester when the 15th credit hour is completed (normally the second semester in the program). This means that the student will also need to have decided whether to pursue the thesis option or coursework-only option by this time, and have identified a major advisor and an advisory committee.</li>
+    </ul>
+
+    <p>Students who have any doubts about their standing should discuss this with their advisor (ARA) and/or the GD.</p>
+  </conbody>
+</concept>

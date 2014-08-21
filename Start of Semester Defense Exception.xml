@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="defending-student-status">
+<title>Start of Semester Defense Exception</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The <b>Start of Semester Defense Exception(SSDE)</b> (formerly known as Defending Student Status) is a special enrollment category defined by the Graduate School. In their words, it is "for students who have fulfilled all requirements, including advisory committee review and agreement that the thesis or dissertation is ready for defense, and are registering only to take the final oral examination."</p>
+
+    <p>The graduate school requires that all students be registered in the semester that they complete their degree. This means that if a student intends to defend in a Fall semester, but could not, he/she would need to register for the following semester (i.e., Spring). However, sometimes a student has finished his/her work (e.g. in the Fall) but is unable to schedule the defense for their thesis or dissertation by the end-of-semester deadline.</p>
+
+    <p>To keep the registration expenses to a minimum, the graduate school offers the ability to register for only a "token" credit of 1 hour, rather than normal, full-time credit hours. This type of registration is known as <b>Start of Semester Defense Exception</b> and is only available to students who:</p>
+
+    <ul>
+      <li>were unable to schedule an examination time with their committee during the last term they were enrolled</li>
+      <li>have completed all requirements for the degree, including preparation and having the final copy of their thesis or dissertation reviewed by the advisory committee.</li>
+    </ul>
+
+    <p>Please read the details of how to qualify and how to schedule a final exam under SSDE on the web at <xref href="http://graduateschool.vt.edu/graduate_catalog/policies.htm?policy=002d14432c654287012c6542e3720022" 
+      format="html" scope="external">Graduate School Policies on SSDE</xref> and the <xref href="http://graduateschool.vt.edu/academics/completion/faq.html" 
+      format="html" scope="external">FAQ</xref> page.</p>
+  </conbody>
+
+</concept>

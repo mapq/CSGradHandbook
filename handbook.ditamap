@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/map.dtd">
+<map>
+  <title>CS Graduate Handbook</title>
+  <topicref href="Reference.xml" processing-role="resource-only"/>
+
+    <topicref href="About.xml" audience="masters phd">
+      <topicref href="Contacts.xml"/>
+    <topicref href="Graduate%20Council.xml"/>
+    <topicref href="Paperwork%20and%20Forms.xml"/>
+  </topicref>
+
+    <topicref href="Degrees.xml">
+      <topichead navtitle="Master of Science (MS)" audience="masters">
+      <topicref href="BSMS%20Program.xml"/>
+      <topicref href="MST%20Program.xml">
+        <topicref href="MST%20Requirement.xml"/>
+        <topicref href="MST%20Credit%20distribution.xml"/>
+        <topicref href="MST%20Advising%20Committee.xml"/>
+        <topicref href="MST%20Scheduling%20Exam.xml"/>
+        <topicref href="etd.xml"/>
+        <topicref href="MST%20Schedule.xml"/>
+      </topicref>
+      <topicref href="MSC%20Program.xml">
+        <topicref href="MSC%20Requirement.xml"/>
+        <topicref href="MSC%20Credit%20distribution.xml"/>
+        <topicref href="MSC%20Scheduling%20Exam.xml"/>
+        <topicref href="MSC%20Advising%20Committee.xml"/>
+        <topicref href="MSC%20Schedule.xml"/>
+      </topicref>
+      <topicref href="MS%20Good%20Standing.xml"/>
+    </topichead>
+
+      <topicref href="PHD.xml" audience="phd">
+      <topicref href="PHD%20Requirement.xml"/>
+      <topicref href="PHD%20Credit%20distribution.xml"/>
+      <topicref href="PHD%20Advising%20Committee.xml"/>
+      <topicref href="PHD%20Procedural%20Milestones.xml">
+        <topicref href="PHD%20Qualifying%20Process.xml"/>
+        <topicref href="PHD%20Prelim.xml"/>
+        <topicref href="PHD%20Research%20Defense.xml"/>
+        <topicref href="PHD%20Final%20Defense.xml"/>
+        <topicref href="etd.xml"/>
+      </topicref>
+      <topicref href="PHD%20MS%20Along%20the%20way.xml"/>
+      <topicref href="PHD%20Schedule.xml"/>
+      <topicref href="PHD%20Good%20Standing.xml"/>
+    </topicref>
+
+      <topichead navtitle="Degree Options and Certificates" audience="masters phd">
+      <topicref href="Bioinformatics.xml"/>
+      <topicref href="HCI-certificate.xml"/>
+    </topichead>
+    </topicref>
+  
+    <topichead navtitle="Administrivia" audience="masters phd">
+      <topichead navtitle="Academic Progress">
+        <topicref href="Plans%20of%20study.xml"/>
+        <topicref href="Student%20Activity%20Report.xml"/>
+        <topicref href="Green%20Thursday.xml"/>
+        <topicref href="Leave%20of%20Absense.xml"/>
+      </topichead>
+      <topichead navtitle="Matriculation">
+        <topicref href="Course%20Registrations.xml">
+          <topicref href="Registration%20for%20CS5974.xml"/>
+        </topicref>
+        <topicref href="Courseload%20Expectations.xml"/>
+        <topicref href="Deficiencies.xml"/>
+        <topicref href="Transfer%20Credits.xml"/>
+        <topicref href="Dropping%20Courses.xml"/>
+        <topicref href="Start%20of%20Semester%20Defense%20Exception.xml"/>
+        <topicref href="Internships%20and%20Co-ops.xml"/>
+        <topicref href="Graduation.xml"/>
+      </topichead>
+      <topicref href="Funding.xml"/>
+      <topicref href="VTEOA.xml"/>
+      <topicref href="Honor%20Code.xml"/>
+      <topicref href="POC.xml"/>
+    </topichead>
+</map>

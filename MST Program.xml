@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="master-of-science-thesis">
+<title>Master of Science Thesis option</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The Master of Science degree provides a solid foundation in computer science while still offering flexibility to meet the needs and interests of individual students. The M.S. Thesis option requires 30 credits of course work of which typically 21 credits must derive from courses. Students in good standing typically complete this option in at most two years. We encourage MS students to pursue the thesis option since it provides them with an in-depth research experience, while requiring fewer courses than the <xref href="MSC%20Program.xml">MS Coursework</xref> option.</p>
+
+    <p>To fulfill requirements for the Thesis option, students must satisfy 
+      <xref href="MST%20Requirement.xml#mst-breadth">breadth</xref> requirement, adhere to an appropriate
+      <xref href="MST%20Credit%20distribution.xml">credit distribution</xref>, enroll in the 
+      <xref href="MST%20Requirement.xml#mst-seminar">graduate seminar</xref>, comply with the
+      <xref href="MST%20Requirement.xml#mst-ethics">ethics requirement</xref>, and complete an oral and written
+      <xref href="MST%20Requirement.xml#mst-final-exam">final exam</xref> (also known as a Masters Thesis).</p>
+  </conbody>
+</concept>

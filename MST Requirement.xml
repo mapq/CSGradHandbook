@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="mst-requirements">
+  <title>Requirements</title>
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+    <p>The next sections provide more details on the requirements of the MS Thesis degree.</p>
+
+    <section>
+      <title>Breadth Requirements</title>
+      <p>To encourage Masters graduates to exhibit sufficient breadth of computer science areas, M.S. thesis students must take CS courses spanning four (4) different areas. The available courses and areas are listed in the department website (<xref href="http://www.cs.vt.edu/graduate/courses/areas" format="html" scope="external"/>).</p>
+    </section>
+
+    <section id="seminar" conref="Reference.xml#lib/seminar-requirement"></section>
+
+    <section id="ethics" conref="Reference.xml#lib/ethics-requirement"></section>
+
+    <section>
+      <title>Final Exam Requirement</title>
+      <p>The primary procedural milestone for the M.S. thesis degree is the final exam, i.e. the defense of the thesis, which typically happens in the fourth semester of graduate study. The final exam requirement for the M.S. thesis option requires that the student orally defend a written thesis before a suitably constituted advisory committee (see <xref href="MST%20Advising%20Committee.xml"/>). The written thesis must then be submitted to the graduate school where it will form part of the electronic theses and dissertations collection (see <xref href="etd.xml"/>).</p>
+    </section>
+
+  </conbody>
+
+  <related-links>
+    <link href="http://www.cs.vt.edu/node/7153" 
+      format="html" scope="external">
+      <linktext>List of available graduate courses and their areas</linktext></link>
+  </related-links>
+</concept>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="degrees">
+<title>Degrees and Certificates</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+<p>The department offers Masters of Science degree (see <xref href="MS.xml"/>) and a Doctoral degree (see <xref href="PHD.xml"/>) in Computer Science. In addition, by satisfying additional requirements, either of these degrees can be awarded with an annotation in the student’s transcript with a BioInformatics opion (see <xref href="Bioinformatics.xml"/>). We also have a certificate in Human-Computer Interaction (see <xref href="HCI-certificate.xml"/>) available.</p>
+
+  </conbody>
+</concept>

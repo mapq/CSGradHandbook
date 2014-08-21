@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="courses">
+<title>Course Registrations</title>
+
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Graduate students can register in courses at the 4000 (senior), 5000 (beginning graduate), and 6000 (advanced graduate) level. See Appendix A for a list of courses available for graduate students. In special cases, when students have been admitted with deficiencies in their computing background, they may be required to take courses at the 2000 (sophomore) or 3000 (junior) level, beyond their regular graduate program requirements. See Section 12.2 for further details.</p>
+
+    <p>Historically, the second digit of the four-digit course numbers was intended to denote the cognizant area of the course, e.g., “1” denoted algorithms/theory, “3” denoted languages, and so on. As the number of areas grew, this convention became difficult and cumbersome to maintain. Hence this appendix gives the authoritative listing of all areas and the graduate courses that fall in each of them. Note that only 5000 and 6000 level CS courses are listed since these are the courses used to assess the breadth requirement for M.S. and Ph.D. degrees. Those 5000 level/above courses not discussed here (such as CS 5994, CS 7994) do not count toward the breadth requirement.</p>
+
+    <p>Three courses are treated distinctly. CS 5014: Research Methods in Computer Science is considered to be a course in its own area for the purpose of determining the satisfaction of breadth requirements. The cognizant area of CS 5974: Independent Study depends on the description of the course and is decided by GPC in consultation with the faculty advisor for the course. Similarly, the cognizant area of CS 5984: Special Study depends on the specific offering of the course and is decided by GPC in consultation with the instructor of the course. For questions about area classifications, please contact the AGS.</p>
+
+  </conbody>
+
+
+    <related-links>
+      <link href="https://www.cs.vt.edu/graduate/courses/" 
+        format="html" scope="external">
+        <linktext>List of graduate courses in the department</linktext></link>
+
+      <link href="https://www.cs.vt.edu/graduate/courses/underg4gradcr" 
+        format="html" scope="external">
+        <linktext>Undergraduate courses available for graduate credit</linktext></link>
+
+      <link href="https://www.cs.vt.edu/graduate/courses/cognates" 
+        format="html" scope="external">
+        <linktext>Approved cognate courses</linktext></link>
+
+      <link href="https://www.cs.vt.edu/graduate/courses/areas" 
+        format="html" scope="external">
+        <linktext>List of graduate courses and areas</linktext></link>
+    </related-links>
+</concept>

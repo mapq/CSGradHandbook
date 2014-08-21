@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="lib">
+
+  <title>Reference for common sections in CS Handbook</title>
+  <shortdesc></shortdesc>
+
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p id="TBU"><b>NEEDS TO BE UPDATED</b></p>
+    
+    <p id="good-standing">Graduate students must remain in "good standing" throughout the period of graduate studies. This means that the student is making satisfactory progress towards the completion of a graduate degree. Each student's progress is reviewed annually by the full department during the <xref href="Green%20Thursday.xml">Green Thursday</xref> review and based on the student's <xref href="Student%20Activity%20Report.xml">Student Activity Report</xref>. Only students in good standing are normally eligible for funding support administered by the department, i.e., GTAs and fellowships. In extreme cases, students not in good standing will be removed from the graduate program. The GPC will normally provide at least one warning before removing a student, however, in cases where there exists substantial failure to achieve satisfactory progress the student may be removed without prior warning.</p>
+
+    <p id="two-weeks-before">At least two weeks prior to the examination date, the student must schedule a final exam with the Graduate School. The request for the exam is done electronically and must be approved by all members of the advisory committee, the GD, and the Graduate School. The <xref href="http://graduateschool.vt.edu/graduate_catalog/policies.htm?policy=002d14432c654287012c6542e363001a" format="html">policy page at the Graduate School</xref> contains more information. The <xref href="https://gradexam.stl.vt.edu/" format="html">Graduate School Exam Approval System</xref> also has some help information.</p>
+
+    <note id="prereq-final-exam">It is worth noting that there are several checks that must be met before the exam can be schedule. A student must have an approved <xref href="Plans%20of%20Study.xml"/>, and must not have any holds on his/her account.</note>
+
+    <note id="pos-and-exam-same-time">DO NOT submit a <xref href="Plans%20of%20Study.xml"/> at the same time as you schedule an exam. Your plan of study should be approved (not submitted, but approved) before you request an exam.</note>
+
+    <section id="seminar-requirement">
+      <title>Graduate Seminar Requirement</title>
+        <p>All full-time graduate students are required to register for <xref href="http://www.cs.vt.edu/graduate/courses/CS5944" format="html" scope="external">CS 5944 Graduate Seminar</xref> in their first three semesters of graduate study and to earn a passing grade in these semesters. While it is required you take this course, the credits from this course cannot be used to satisfy course credit requirements toward any of our graduate degrees. Exceptions to the seminar requirement will be considered by GPC on a case-by-case basis - please contact the GD if you would like to petition for an exception. The exceptions are often based on conflict in scheduling of GTA duties and the graduate seminar. Typically the exception approved simply allows the student to skip a semester of CS 5944 with the understanding that the student will still register for it in the following semester.</p>
+    </section>
+
+    <section id="ethics-requirement">
+      <title>Ethics Requirement</title>
+
+      <p>All graduate students in the Department of Computer Science must statisfy the Graduate School requirements of Resolution 2012-13B. The resolution requires our graduate program to "include a scholarly ethics and integrity component in graduate education." This section describes how such a component is integrated into our graduate programs. This requirement applies to students starting in the Fall 2014 and later.</p>
+
+      <ul>
+        <li>All incoming graduate students must participate in a four hour orientation  offered by GD. This orientation is done the week before classes start in the Fall and Spring semesters.</li>
+
+        <li>All incoming graduate students must complete the following two courses offered by the Research Division:
+
+        <ol>
+          <li>Responsible Conduct of Research <xref href="http://www.research.vt.edu/era/rcr-training-tracker/home" scope="external"  format="html"/></li>
+          <li>Conflict of Interest Training <xref href="http://www.research.vt.edu/conflict-of-interest/training" scope="external" format="html"/></li>
+        </ol></li>
+
+        <li>All students are required to take <xref href="http://www.cs.vt.edu/graduate/courses/CS5944" format="html" scope="external">CS 5944 Graduate Seminar</xref> (1 cr.) three times. The seminar is offered both Fall and Spring semesters. The seminar dedicates at least 3 lectures in the semester to discuss issues of authorship and ethics. In addition, all students in the Graduate Seminar are required to participate in an online community hosted with Piazza where discussions around these topics are carried out throughout the semester.</li>
+      </ul>
+
+      <p>Students will be required to submit evidence of completion of these milestones in their annual student activity report (see section <xref href="Student%20Activity%20Report.xml"/>). The annual evaluation of students (see <xref href="Green%20Thursday.xml"/>) will determine whether students are complying with the Ethics requirement.</p>
+
+    </section>
+
+  </conbody>
+</concept>

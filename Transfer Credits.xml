@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="transfer-credits">
+<title>Transfer Credits</title>
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>Courses used on a student's plan of study will normally be courses in Computer Science taken at Virginia Tech or designated cognate courses in other departments at Virginia Tech. Students entering our graduate program with credit for courses taken at other universities can apply to have a certain amount of that credit transferred to Virginia Tech and applied to their plans of study here.</p>
+
+    <p>In general, the procedure is to first determine an appropriate faculty member who will validate that equivalent credit has been done elsewhere. This is typically a faculty member who teaches a corresponding course here or, if such a course does not exist at Virginia Tech, a faculty member who is most knowledgeable in the cognizant area of the course. Depending on the nature of the course (CS course or cognate course), the appropriate faculty member might be within or outside the CS department. The student presents necessary documentation on the coursework to this faculty member who approves the transfer of credit.</p>
+
+    <p>Master's students may transfer a maximum of nine hours (three regular courses). Ph.D. students may transfer a maximum of fifteen hours (five regular courses) to be applied toward a Ph.D. plan of study. (Students who joined prior to Fall 2009 were allowed to transfer upto six regular courses but this number has since been reduced to five, to ensure that not more than 50% of the graded coursework credits for a VT degree originates from elsewhere.)</p>
+
+    <p>Courses taken at other universities will normally be approved for use on a plan of study if the course is essentially the same as a Virginia Tech course which can appear on the student's plan of study. Credit for courses that are not essentially the same as a Virginia Tech course might be permitted as a general CS elective at the 5000- or 6000-level. Such courses might be approved within a specific CS area, in which case they would count as a regular course within that area for the purpose of fulfilling breadth requirements. Non-computer science courses that have not been designated as cognate courses will normally be approved for use on a plan of study (again, probably as general electives) if the student's advisor believes that this course is an integral and essential part of a student's plan of study.</p>
+
+    <p>A course may be transferred only if it was taken while the student was enrolled as a graduate student. A course may not be transferred if it was used to satisfy requirements for any undergraduate degree. To be eligible for credit, the student must have earned at least a grade of B or its equivalent, and the course must be taken at an accredited graduate institution. We must have on file an official transcript from the institution that shows the course and grade earned.</p>
+    <p>A student requesting transfer credit must follow this procedure:</p>
+    <ul>
+      <li>Requests for transfer of credit are typically made during your first semester at Virginia Tech, but can be applied for and approved at any time. For each course you request to be transferred, print a copy of the credit transfer request form.</li>
+
+      <li>Fill out the primary details of the form and attach to the form as much information about the course as possible, such as: a copy of the course syllabus as taught (as opposed to the university or college catalog description, which does not carry enough information); the title and author of the textbook used; a sample graded assignment (preferably the last one in the course, definitely not the first); a copy of the final exam--preferably both the questions and your graded answers (if you do not have the final, please supply the mid-term); URLs to the course website or other online resource. In cases where the course was taken a long time ago and little documentation is available, do the best you can. Transfer credit may be denied if insufficient information is provided to judge the content and level of the course. Take this package to the professor who teaches the course most like the one you wish to transfer and ask the professor to consider your request.</li>
+
+      <li>In many cases the faculty member will give the recommendation immediately on your form, and you can give it to the GC. In cases where documentation is sparse, the faculty member might choose to “interview” you to assess your knowledge in the stated course. If more time and consideration is needed, please leave the form with the faculty member with a request to forward it to the GC. Once the form is received by the GC, the GD typically reviews it and approves it, and the transferred course(s) can then be used on a plan of study.</li>
+    </ul>
+  </conbody>
+
+    <related-links>
+      <link href="http://www.cs.vt.edu/graduate/current_students/forms" 
+        format="html" scope="external">
+        <linktext>Forms Page in CS Website</linktext></link>
+
+      <link href="http://www.cs.vt.edu/vtmena-course-transfer" 
+        format="html" scope="external">
+        <linktext>VT MENA Transfer Credit Equivalencies</linktext></link>
+    </related-links>
+</concept>

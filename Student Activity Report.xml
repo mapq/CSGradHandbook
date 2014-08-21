@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd" []>
+<concept id="student-activity-reports">
+<title>Student Activity Reports</title>
+  <shortdesc></shortdesc>
+  <prolog>
+    <author type="creator">Graduate Program Committee</author>
+    <copyright>
+      <copyryear year="2014"/>
+      <copyrholder>CS Department</copyrholder>
+    </copyright>
+  </prolog>
+  <conbody>
+
+    <p>The Graduate School requires that all graduate students receive an annual evaluation of their progress. In the Department of Computer Science, the annual evaluation process is similar in some respects to how faculty are given their annual review. The review process is initiated by each student filling out the Student Activity Report. The report is usually due in the Spring. An email will be sent once the form is available.</p>
+
+    <p>All students must file a SAR. However, there are differences depending on your stage in the graduate program:</p>
+    <ul>
+      <li>If a student is graduating in the Spring semester, the student may only note this on the form have their advisor (ARA) complete the assessment section. The other details are not required.</li>
+
+      <li>Students in their first semester (i.e., started graduate studies in the Spring) will have little to say on the form and need not get an advisor to write an assessment. They still must submit the form.</li>
+
+      <li>All other students must complete the SAR in its entirety.</li>
+    </ul>
+
+    <p>The SAR form has essentially three parts:</p>
+
+    <ul>
+      <li>A listing of academic milestones passed and planned (which serves to give the student self guidance as to whether he or she is on track toward graduation)</li>
+
+      <li>A listing of accomplishments for the year. This also self-guides the student regarding progress for the year.</li>
+
+      <li>A written statement from the student's advisor assessing the student's progress, to be signed by both the advisor and the student.</li>
+    </ul>
+
+    <p>These SARs serve as a major source of input for assessing rankings for GTA assignments, for graduation awards and other honors.  The SAR is extremely important for graduate students who are seeking support from the Department as a GTA or GRA. We use the content of the form, the advisor evaluation, and the subsequent discussion on Green Thursday as a way to assess your progress in the degree. In rare cases, and after discussion at the Green Thursday evaluation, we use the SAR for issuing warning letters or terminating a student from the program for lack of progress.</p>
+
+    <p>The assessment from your advisor, which is part of the SAR, is an important tool for you to be sure that you are truly on track with your work. </p>
+
+
+  </conbody>
+    <related-links>
+      <link href="http://hosting.cs.vt.edu/gpcstudents/sar/" 
+        format="html" scope="external">
+        <linktext>Student Activity Report form</linktext></link>
+    </related-links>
+</concept>
